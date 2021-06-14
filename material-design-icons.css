@@ -1,5 +1,221 @@
+.mdi-10k:before {
+  content: "\ue951";
+}
+
+.mdi-10mp:before {
+  content: "\ue952";
+}
+
+.mdi-11mp:before {
+  content: "\ue953";
+}
+
+.mdi-12mp:before {
+  content: "\ue954";
+}
+
+.mdi-13mp:before {
+  content: "\ue955";
+}
+
+.mdi-14mp:before {
+  content: "\ue956";
+}
+
+.mdi-15mp:before {
+  content: "\ue957";
+}
+
+.mdi-16mp:before {
+  content: "\ue958";
+}
+
+.mdi-17mp:before {
+  content: "\ue959";
+}
+
+.mdi-18mp:before {
+  content: "\ue95a";
+}
+
+.mdi-19mp:before {
+  content: "\ue95b";
+}
+
+.mdi-1k:before {
+  content: "\ue95c";
+}
+
+.mdi-1k-plus:before {
+  content: "\ue95d";
+}
+
+.mdi-1x-mobiledata:before {
+  content: "\uefcd";
+}
+
+.mdi-20mp:before {
+  content: "\ue95e";
+}
+
+.mdi-21mp:before {
+  content: "\ue95f";
+}
+
+.mdi-22mp:before {
+  content: "\ue960";
+}
+
+.mdi-23mp:before {
+  content: "\ue961";
+}
+
+.mdi-24mp:before {
+  content: "\ue962";
+}
+
+.mdi-2k:before {
+  content: "\ue963";
+}
+
+.mdi-2k-plus:before {
+  content: "\ue964";
+}
+
+.mdi-2mp:before {
+  content: "\ue965";
+}
+
+.mdi-30fps:before {
+  content: "\uefce";
+}
+
+.mdi-30fps-select:before {
+  content: "\uefcf";
+}
+
+.mdi-360:before {
+  content: "\ue577";
+}
+
 .mdi-3d-rotation:before {
   content: "\ue84d";
+}
+
+.mdi-3g-mobiledata:before {
+  content: "\uefd0";
+}
+
+.mdi-3k:before {
+  content: "\ue966";
+}
+
+.mdi-3k-plus:before {
+  content: "\ue967";
+}
+
+.mdi-3mp:before {
+  content: "\ue968";
+}
+
+.mdi-3p:before {
+  content: "\uefd1";
+}
+
+.mdi-4g-mobiledata:before {
+  content: "\uefd2";
+}
+
+.mdi-4g-plus-mobiledata:before {
+  content: "\uefd3";
+}
+
+.mdi-4k:before {
+  content: "\ue072";
+}
+
+.mdi-4k-plus:before {
+  content: "\ue969";
+}
+
+.mdi-4mp:before {
+  content: "\ue96a";
+}
+
+.mdi-5g:before {
+  content: "\uef38";
+}
+
+.mdi-5k:before {
+  content: "\ue96b";
+}
+
+.mdi-5k-plus:before {
+  content: "\ue96c";
+}
+
+.mdi-5mp:before {
+  content: "\ue96d";
+}
+
+.mdi-60fps:before {
+  content: "\uefd4";
+}
+
+.mdi-60fps-select:before {
+  content: "\uefd5";
+}
+
+.mdi-6-ft-apart:before {
+  content: "\uf21e";
+}
+
+.mdi-6k:before {
+  content: "\ue96e";
+}
+
+.mdi-6k-plus:before {
+  content: "\ue96f";
+}
+
+.mdi-6mp:before {
+  content: "\ue970";
+}
+
+.mdi-7k:before {
+  content: "\ue971";
+}
+
+.mdi-7k-plus:before {
+  content: "\ue972";
+}
+
+.mdi-7mp:before {
+  content: "\ue973";
+}
+
+.mdi-8k:before {
+  content: "\ue974";
+}
+
+.mdi-8k-plus:before {
+  content: "\ue975";
+}
+
+.mdi-8mp:before {
+  content: "\ue976";
+}
+
+.mdi-9k:before {
+  content: "\ue977";
+}
+
+.mdi-9k-plus:before {
+  content: "\ue978";
+}
+
+.mdi-9mp:before {
+  content: "\ue979";
 }
 
 .mdi-ac-unit:before {
@@ -18,12 +234,24 @@
   content: "\ue192";
 }
 
+.mdi-access-time-filled:before {
+  content: "\uefd6";
+}
+
 .mdi-accessibility:before {
   content: "\ue84e";
 }
 
+.mdi-accessibility-new:before {
+  content: "\ue92c";
+}
+
 .mdi-accessible:before {
   content: "\ue914";
+}
+
+.mdi-accessible-forward:before {
+  content: "\ue934";
 }
 
 .mdi-account-balance:before {
@@ -40,6 +268,14 @@
 
 .mdi-account-circle:before {
   content: "\ue853";
+}
+
+.mdi-account-tree:before {
+  content: "\ue97a";
+}
+
+.mdi-ad-units:before {
+  content: "\uef39";
 }
 
 .mdi-adb:before {
@@ -66,6 +302,18 @@
   content: "\ue146";
 }
 
+.mdi-add-business:before {
+  content: "\ue729";
+}
+
+.mdi-add-call:before {
+  content: "\ue0e8";
+}
+
+.mdi-add-chart:before {
+  content: "\ue97b";
+}
+
 .mdi-add-circle:before {
   content: "\ue147";
 }
@@ -74,12 +322,56 @@
   content: "\ue148";
 }
 
+.mdi-add-comment:before {
+  content: "\ue266";
+}
+
+.mdi-add-ic-call:before {
+  content: "\ue97c";
+}
+
+.mdi-add-link:before {
+  content: "\ue178";
+}
+
 .mdi-add-location:before {
   content: "\ue567";
 }
 
+.mdi-add-location-alt:before {
+  content: "\uef3a";
+}
+
+.mdi-add-moderator:before {
+  content: "\ue97d";
+}
+
+.mdi-add-photo-alternate:before {
+  content: "\ue43e";
+}
+
+.mdi-add-reaction:before {
+  content: "\ue1d3";
+}
+
+.mdi-add-road:before {
+  content: "\uef3b";
+}
+
 .mdi-add-shopping-cart:before {
   content: "\ue854";
+}
+
+.mdi-add-task:before {
+  content: "\uf23a";
+}
+
+.mdi-add-to-drive:before {
+  content: "\ue65c";
+}
+
+.mdi-add-to-home-screen:before {
+  content: "\ue1fe";
 }
 
 .mdi-add-to-photos:before {
@@ -90,8 +382,28 @@
   content: "\ue05c";
 }
 
+.mdi-addchart:before {
+  content: "\uef3c";
+}
+
 .mdi-adjust:before {
   content: "\ue39e";
+}
+
+.mdi-admin-panel-settings:before {
+  content: "\uef3d";
+}
+
+.mdi-ads-click:before {
+  content: "\ue762";
+}
+
+.mdi-agriculture:before {
+  content: "\uea79";
+}
+
+.mdi-air:before {
+  content: "\uefd8";
 }
 
 .mdi-airline-seat-flat:before {
@@ -126,12 +438,24 @@
   content: "\ue637";
 }
 
+.mdi-airplane-ticket:before {
+  content: "\uefd9";
+}
+
 .mdi-airplanemode-active:before {
   content: "\ue195";
 }
 
 .mdi-airplanemode-inactive:before {
   content: "\ue194";
+}
+
+.mdi-airplanemode-off:before {
+  content: "\ue194";
+}
+
+.mdi-airplanemode-on:before {
+  content: "\ue195";
 }
 
 .mdi-airplay:before {
@@ -162,6 +486,34 @@
   content: "\ue019";
 }
 
+.mdi-align-horizontal-center:before {
+  content: "\ue00f";
+}
+
+.mdi-align-horizontal-left:before {
+  content: "\ue00d";
+}
+
+.mdi-align-horizontal-right:before {
+  content: "\ue010";
+}
+
+.mdi-align-vertical-bottom:before {
+  content: "\ue015";
+}
+
+.mdi-align-vertical-center:before {
+  content: "\ue011";
+}
+
+.mdi-align-vertical-top:before {
+  content: "\ue00c";
+}
+
+.mdi-all-inbox:before {
+  content: "\ue97f";
+}
+
 .mdi-all-inclusive:before {
   content: "\ueb3d";
 }
@@ -170,24 +522,100 @@
   content: "\ue90b";
 }
 
+.mdi-alt-route:before {
+  content: "\uf184";
+}
+
+.mdi-alternate-email:before {
+  content: "\ue0e6";
+}
+
+.mdi-amp-stories:before {
+  content: "\uea13";
+}
+
+.mdi-analytics:before {
+  content: "\uef3e";
+}
+
+.mdi-anchor:before {
+  content: "\uf1cd";
+}
+
 .mdi-android:before {
   content: "\ue859";
+}
+
+.mdi-animation:before {
+  content: "\ue71c";
 }
 
 .mdi-announcement:before {
   content: "\ue85a";
 }
 
+.mdi-aod:before {
+  content: "\uefda";
+}
+
+.mdi-apartment:before {
+  content: "\uea40";
+}
+
+.mdi-api:before {
+  content: "\uf1b7";
+}
+
+.mdi-app-blocking:before {
+  content: "\uef3f";
+}
+
+.mdi-app-registration:before {
+  content: "\uef40";
+}
+
+.mdi-app-settings-alt:before {
+  content: "\uef41";
+}
+
+.mdi-approval:before {
+  content: "\ue982";
+}
+
 .mdi-apps:before {
   content: "\ue5c3";
+}
+
+.mdi-architecture:before {
+  content: "\uea3b";
 }
 
 .mdi-archive:before {
   content: "\ue149";
 }
 
+.mdi-area-chart:before {
+  content: "\ue770";
+}
+
 .mdi-arrow-back:before {
   content: "\ue5c4";
+}
+
+.mdi-arrow-back-ios:before {
+  content: "\ue5e0";
+}
+
+.mdi-arrow-back-ios-new:before {
+  content: "\ue2ea";
+}
+
+.mdi-arrow-circle-down:before {
+  content: "\uf181";
+}
+
+.mdi-arrow-circle-up:before {
+  content: "\uf182";
 }
 
 .mdi-arrow-downward:before {
@@ -210,12 +638,32 @@
   content: "\ue5c8";
 }
 
+.mdi-arrow-forward-ios:before {
+  content: "\ue5e1";
+}
+
+.mdi-arrow-left:before {
+  content: "\ue5de";
+}
+
+.mdi-arrow-right:before {
+  content: "\ue5df";
+}
+
+.mdi-arrow-right-alt:before {
+  content: "\ue941";
+}
+
 .mdi-arrow-upward:before {
   content: "\ue5d8";
 }
 
 .mdi-art-track:before {
   content: "\ue060";
+}
+
+.mdi-article:before {
+  content: "\uef42";
 }
 
 .mdi-aspect-ratio:before {
@@ -254,8 +702,24 @@
   content: "\ue39f";
 }
 
+.mdi-assistant-direction:before {
+  content: "\ue988";
+}
+
+.mdi-assistant-navigation:before {
+  content: "\ue989";
+}
+
 .mdi-assistant-photo:before {
   content: "\ue3a0";
+}
+
+.mdi-atm:before {
+  content: "\ue573";
+}
+
+.mdi-attach-email:before {
+  content: "\uea5e";
 }
 
 .mdi-attach-file:before {
@@ -270,8 +734,56 @@
   content: "\ue2bc";
 }
 
+.mdi-attractions:before {
+  content: "\uea52";
+}
+
+.mdi-attribution:before {
+  content: "\uefdb";
+}
+
 .mdi-audiotrack:before {
   content: "\ue3a1";
+}
+
+.mdi-auto-awesome:before {
+  content: "\ue65f";
+}
+
+.mdi-auto-awesome-mosaic:before {
+  content: "\ue660";
+}
+
+.mdi-auto-awesome-motion:before {
+  content: "\ue661";
+}
+
+.mdi-auto-delete:before {
+  content: "\uea4c";
+}
+
+.mdi-auto-fix-high:before {
+  content: "\ue663";
+}
+
+.mdi-auto-fix-normal:before {
+  content: "\ue664";
+}
+
+.mdi-auto-fix-off:before {
+  content: "\ue665";
+}
+
+.mdi-auto-graph:before {
+  content: "\ue4fb";
+}
+
+.mdi-auto-stories:before {
+  content: "\ue666";
+}
+
+.mdi-autofps-select:before {
+  content: "\uefdc";
 }
 
 .mdi-autorenew:before {
@@ -282,12 +794,60 @@
   content: "\ue01b";
 }
 
+.mdi-baby-changing-station:before {
+  content: "\uf19b";
+}
+
+.mdi-back-hand:before {
+  content: "\ue764";
+}
+
+.mdi-backpack:before {
+  content: "\uf19c";
+}
+
 .mdi-backspace:before {
   content: "\ue14a";
 }
 
 .mdi-backup:before {
   content: "\ue864";
+}
+
+.mdi-backup-table:before {
+  content: "\uef43";
+}
+
+.mdi-badge:before {
+  content: "\uea67";
+}
+
+.mdi-bakery-dining:before {
+  content: "\uea53";
+}
+
+.mdi-balcony:before {
+  content: "\ue58f";
+}
+
+.mdi-ballot:before {
+  content: "\ue172";
+}
+
+.mdi-bar-chart:before {
+  content: "\ue26b";
+}
+
+.mdi-batch-prediction:before {
+  content: "\uf0f5";
+}
+
+.mdi-bathroom:before {
+  content: "\uefdd";
+}
+
+.mdi-bathtub:before {
+  content: "\uea41";
 }
 
 .mdi-battery-alert:before {
@@ -302,6 +862,10 @@
   content: "\ue1a4";
 }
 
+.mdi-battery-saver:before {
+  content: "\uefde";
+}
+
 .mdi-battery-std:before {
   content: "\ue1a5";
 }
@@ -314,12 +878,56 @@
   content: "\ueb3e";
 }
 
+.mdi-bed:before {
+  content: "\uefdf";
+}
+
+.mdi-bedroom-baby:before {
+  content: "\uefe0";
+}
+
+.mdi-bedroom-child:before {
+  content: "\uefe1";
+}
+
+.mdi-bedroom-parent:before {
+  content: "\uefe2";
+}
+
+.mdi-bedtime:before {
+  content: "\uef44";
+}
+
 .mdi-beenhere:before {
   content: "\ue52d";
 }
 
+.mdi-bento:before {
+  content: "\uf1f4";
+}
+
+.mdi-bike-scooter:before {
+  content: "\uef45";
+}
+
+.mdi-biotech:before {
+  content: "\uea3a";
+}
+
+.mdi-blender:before {
+  content: "\uefe3";
+}
+
 .mdi-block:before {
   content: "\ue14b";
+}
+
+.mdi-block-flipped:before {
+  content: "\uef46";
+}
+
+.mdi-bloodtype:before {
+  content: "\uefe4";
 }
 
 .mdi-bluetooth:before {
@@ -336,6 +944,10 @@
 
 .mdi-bluetooth-disabled:before {
   content: "\ue1a9";
+}
+
+.mdi-bluetooth-drive:before {
+  content: "\uefe5";
 }
 
 .mdi-bluetooth-searching:before {
@@ -358,16 +970,44 @@
   content: "\ue3a5";
 }
 
+.mdi-bolt:before {
+  content: "\uea0b";
+}
+
 .mdi-book:before {
   content: "\ue865";
+}
+
+.mdi-book-online:before {
+  content: "\uf217";
 }
 
 .mdi-bookmark:before {
   content: "\ue866";
 }
 
+.mdi-bookmark-add:before {
+  content: "\ue598";
+}
+
+.mdi-bookmark-added:before {
+  content: "\ue599";
+}
+
 .mdi-bookmark-border:before {
   content: "\ue867";
+}
+
+.mdi-bookmark-outline:before {
+  content: "\ue867";
+}
+
+.mdi-bookmark-remove:before {
+  content: "\ue59a";
+}
+
+.mdi-bookmarks:before {
+  content: "\ue98b";
 }
 
 .mdi-border-all:before {
@@ -422,6 +1062,10 @@
   content: "\ue06b";
 }
 
+.mdi-breakfast-dining:before {
+  content: "\uea54";
+}
+
 .mdi-brightness-1:before {
   content: "\ue3a6";
 }
@@ -470,6 +1114,14 @@
   content: "\ue3ad";
 }
 
+.mdi-browser-not-supported:before {
+  content: "\uef47";
+}
+
+.mdi-brunch-dining:before {
+  content: "\uea73";
+}
+
 .mdi-brush:before {
   content: "\ue3ae";
 }
@@ -486,8 +1138,20 @@
   content: "\ue869";
 }
 
+.mdi-build-circle:before {
+  content: "\uef48";
+}
+
+.mdi-bungalow:before {
+  content: "\ue591";
+}
+
 .mdi-burst-mode:before {
   content: "\ue43c";
+}
+
+.mdi-bus-alert:before {
+  content: "\ue98f";
 }
 
 .mdi-business:before {
@@ -498,12 +1162,40 @@
   content: "\ueb3f";
 }
 
+.mdi-cabin:before {
+  content: "\ue589";
+}
+
+.mdi-cable:before {
+  content: "\uefe6";
+}
+
 .mdi-cached:before {
   content: "\ue86a";
 }
 
 .mdi-cake:before {
   content: "\ue7e9";
+}
+
+.mdi-calculate:before {
+  content: "\uea5f";
+}
+
+.mdi-calendar-today:before {
+  content: "\ue935";
+}
+
+.mdi-calendar-view-day:before {
+  content: "\ue936";
+}
+
+.mdi-calendar-view-month:before {
+  content: "\uefe7";
+}
+
+.mdi-calendar-view-week:before {
+  content: "\uefe8";
 }
 
 .mdi-call:before {
@@ -558,6 +1250,14 @@
   content: "\ue3b1";
 }
 
+.mdi-camera-indoor:before {
+  content: "\uefe9";
+}
+
+.mdi-camera-outdoor:before {
+  content: "\uefea";
+}
+
 .mdi-camera-rear:before {
   content: "\ue3b2";
 }
@@ -566,8 +1266,32 @@
   content: "\ue3b3";
 }
 
+.mdi-cameraswitch:before {
+  content: "\uefeb";
+}
+
+.mdi-campaign:before {
+  content: "\uef49";
+}
+
 .mdi-cancel:before {
   content: "\ue5c9";
+}
+
+.mdi-cancel-presentation:before {
+  content: "\ue0e9";
+}
+
+.mdi-cancel-schedule-send:before {
+  content: "\uea39";
+}
+
+.mdi-car-rental:before {
+  content: "\uea55";
+}
+
+.mdi-car-repair:before {
+  content: "\uea56";
 }
 
 .mdi-card-giftcard:before {
@@ -582,6 +1306,14 @@
   content: "\ue8f8";
 }
 
+.mdi-carpenter:before {
+  content: "\uf1f8";
+}
+
+.mdi-cases:before {
+  content: "\ue992";
+}
+
 .mdi-casino:before {
   content: "\ueb40";
 }
@@ -594,6 +1326,26 @@
   content: "\ue308";
 }
 
+.mdi-cast-for-education:before {
+  content: "\uefec";
+}
+
+.mdi-catching-pokemon:before {
+  content: "\ue508";
+}
+
+.mdi-category:before {
+  content: "\ue574";
+}
+
+.mdi-celebration:before {
+  content: "\uea65";
+}
+
+.mdi-cell-wifi:before {
+  content: "\ue0ec";
+}
+
 .mdi-center-focus-strong:before {
   content: "\ue3b4";
 }
@@ -602,8 +1354,28 @@
   content: "\ue3b5";
 }
 
+.mdi-chair:before {
+  content: "\uefed";
+}
+
+.mdi-chair-alt:before {
+  content: "\uefee";
+}
+
+.mdi-chalet:before {
+  content: "\ue585";
+}
+
+.mdi-change-circle:before {
+  content: "\ue2e7";
+}
+
 .mdi-change-history:before {
   content: "\ue86b";
+}
+
+.mdi-charging-station:before {
+  content: "\uf19d";
 }
 
 .mdi-chat:before {
@@ -634,6 +1406,22 @@
   content: "\ue86c";
 }
 
+.mdi-check-circle-outline:before {
+  content: "\ue92d";
+}
+
+.mdi-checklist:before {
+  content: "\ue6b1";
+}
+
+.mdi-checklist-rtl:before {
+  content: "\ue6b3";
+}
+
+.mdi-checkroom:before {
+  content: "\uf19e";
+}
+
 .mdi-chevron-left:before {
   content: "\ue5cb";
 }
@@ -654,8 +1442,24 @@
   content: "\ue86d";
 }
 
+.mdi-circle:before {
+  content: "\uef4a";
+}
+
+.mdi-circle-notifications:before {
+  content: "\ue994";
+}
+
 .mdi-class:before {
   content: "\ue86e";
+}
+
+.mdi-clean-hands:before {
+  content: "\uf21f";
+}
+
+.mdi-cleaning-services:before {
+  content: "\uf0ff";
 }
 
 .mdi-clear:before {
@@ -670,8 +1474,20 @@
   content: "\ue5cd";
 }
 
+.mdi-close-fullscreen:before {
+  content: "\uf1cf";
+}
+
 .mdi-closed-caption:before {
   content: "\ue01c";
+}
+
+.mdi-closed-caption-disabled:before {
+  content: "\uf1dc";
+}
+
+.mdi-closed-caption-off:before {
+  content: "\ue996";
 }
 
 .mdi-cloud:before {
@@ -706,6 +1522,18 @@
   content: "\ue86f";
 }
 
+.mdi-code-off:before {
+  content: "\ue4f3";
+}
+
+.mdi-coffee:before {
+  content: "\uefef";
+}
+
+.mdi-coffee-maker:before {
+  content: "\ueff0";
+}
+
 .mdi-collections:before {
   content: "\ue3b6";
 }
@@ -726,6 +1554,14 @@
   content: "\ue0b9";
 }
 
+.mdi-comment-bank:before {
+  content: "\uea4e";
+}
+
+.mdi-commute:before {
+  content: "\ue940";
+}
+
 .mdi-compare:before {
   content: "\ue3b9";
 }
@@ -734,20 +1570,60 @@
   content: "\ue915";
 }
 
+.mdi-compass-calibration:before {
+  content: "\ue57c";
+}
+
+.mdi-compost:before {
+  content: "\ue761";
+}
+
+.mdi-compress:before {
+  content: "\ue94d";
+}
+
 .mdi-computer:before {
   content: "\ue30a";
+}
+
+.mdi-confirmation-num:before {
+  content: "\ue638";
 }
 
 .mdi-confirmation-number:before {
   content: "\ue638";
 }
 
+.mdi-connect-without-contact:before {
+  content: "\uf223";
+}
+
+.mdi-connected-tv:before {
+  content: "\ue998";
+}
+
+.mdi-construction:before {
+  content: "\uea3c";
+}
+
 .mdi-contact-mail:before {
   content: "\ue0d0";
 }
 
+.mdi-contact-page:before {
+  content: "\uf22e";
+}
+
 .mdi-contact-phone:before {
   content: "\ue0cf";
+}
+
+.mdi-contact-support:before {
+  content: "\ue94c";
+}
+
+.mdi-contactless:before {
+  content: "\uea71";
 }
 
 .mdi-contacts:before {
@@ -766,6 +1642,14 @@
   content: "\ue14f";
 }
 
+.mdi-content-paste-off:before {
+  content: "\ue4f8";
+}
+
+.mdi-control-camera:before {
+  content: "\ue074";
+}
+
 .mdi-control-point:before {
   content: "\ue3ba";
 }
@@ -774,8 +1658,28 @@
   content: "\ue3bb";
 }
 
+.mdi-copy-all:before {
+  content: "\ue2ec";
+}
+
 .mdi-copyright:before {
   content: "\ue90c";
+}
+
+.mdi-coronavirus:before {
+  content: "\uf221";
+}
+
+.mdi-corporate-fare:before {
+  content: "\uf1d0";
+}
+
+.mdi-cottage:before {
+  content: "\ue587";
+}
+
+.mdi-countertops:before {
+  content: "\uf1f7";
 }
 
 .mdi-create:before {
@@ -788,6 +1692,18 @@
 
 .mdi-credit-card:before {
   content: "\ue870";
+}
+
+.mdi-credit-card-off:before {
+  content: "\ue4f4";
+}
+
+.mdi-credit-score:before {
+  content: "\ueff1";
+}
+
+.mdi-crib:before {
+  content: "\ue588";
 }
 
 .mdi-crop:before {
@@ -838,8 +1754,36 @@
   content: "\ue3c6";
 }
 
+.mdi-cruelty-free:before {
+  content: "\ue799";
+}
+
+.mdi-dangerous:before {
+  content: "\ue99a";
+}
+
+.mdi-dark-mode:before {
+  content: "\ue51c";
+}
+
 .mdi-dashboard:before {
   content: "\ue871";
+}
+
+.mdi-dashboard-customize:before {
+  content: "\ue99b";
+}
+
+.mdi-data-exploration:before {
+  content: "\ue76f";
+}
+
+.mdi-data-saver-off:before {
+  content: "\ueff2";
+}
+
+.mdi-data-saver-on:before {
+  content: "\ueff3";
 }
 
 .mdi-data-usage:before {
@@ -848,6 +1792,10 @@
 
 .mdi-date-range:before {
   content: "\ue916";
+}
+
+.mdi-deck:before {
+  content: "\uea42";
 }
 
 .mdi-dehaze:before {
@@ -862,12 +1810,32 @@
   content: "\ue92b";
 }
 
+.mdi-delete-outline:before {
+  content: "\ue92e";
+}
+
 .mdi-delete-sweep:before {
   content: "\ue16c";
 }
 
+.mdi-delivery-dining:before {
+  content: "\uea72";
+}
+
+.mdi-departure-board:before {
+  content: "\ue576";
+}
+
 .mdi-description:before {
   content: "\ue873";
+}
+
+.mdi-design-services:before {
+  content: "\uf10a";
+}
+
+.mdi-desktop-access-disabled:before {
+  content: "\ue99d";
 }
 
 .mdi-desktop-mac:before {
@@ -886,12 +1854,24 @@
   content: "\ue30d";
 }
 
+.mdi-developer-board-off:before {
+  content: "\ue4ff";
+}
+
 .mdi-developer-mode:before {
   content: "\ue1b0";
 }
 
 .mdi-device-hub:before {
   content: "\ue335";
+}
+
+.mdi-device-thermostat:before {
+  content: "\ue1ff";
+}
+
+.mdi-device-unknown:before {
+  content: "\ue339";
 }
 
 .mdi-devices:before {
@@ -910,6 +1890,14 @@
   content: "\ue0bc";
 }
 
+.mdi-dining:before {
+  content: "\ueff4";
+}
+
+.mdi-dinner-dining:before {
+  content: "\uea57";
+}
+
 .mdi-directions:before {
   content: "\ue52e";
 }
@@ -922,16 +1910,40 @@
   content: "\ue532";
 }
 
+.mdi-directions-boat-filled:before {
+  content: "\ueff5";
+}
+
 .mdi-directions-bus:before {
   content: "\ue530";
+}
+
+.mdi-directions-bus-filled:before {
+  content: "\ueff6";
 }
 
 .mdi-directions-car:before {
   content: "\ue531";
 }
 
+.mdi-directions-car-filled:before {
+  content: "\ueff7";
+}
+
+.mdi-directions-ferry:before {
+  content: "\ue532";
+}
+
+.mdi-directions-off:before {
+  content: "\uf10f";
+}
+
 .mdi-directions-railway:before {
   content: "\ue534";
+}
+
+.mdi-directions-railway-filled:before {
+  content: "\ueff8";
 }
 
 .mdi-directions-run:before {
@@ -942,20 +1954,64 @@
   content: "\ue533";
 }
 
+.mdi-directions-subway-filled:before {
+  content: "\ueff9";
+}
+
+.mdi-directions-train:before {
+  content: "\ue534";
+}
+
 .mdi-directions-transit:before {
   content: "\ue535";
+}
+
+.mdi-directions-transit-filled:before {
+  content: "\ueffa";
 }
 
 .mdi-directions-walk:before {
   content: "\ue536";
 }
 
+.mdi-dirty-lens:before {
+  content: "\uef4b";
+}
+
+.mdi-disabled-by-default:before {
+  content: "\uf230";
+}
+
+.mdi-disabled-visible:before {
+  content: "\ue76e";
+}
+
 .mdi-disc-full:before {
   content: "\ue610";
 }
 
+.mdi-dnd-forwardslash:before {
+  content: "\ue611";
+}
+
 .mdi-dns:before {
   content: "\ue875";
+}
+
+.mdi-do-disturb:before {
+  content: "\uf08c";
+}
+
+.mdi-do-disturb-alt:before {
+  content: "\uf08d";
+}
+
+.mdi-do-disturb-off:before {
+  content: "\uf08e";
+}
+
+.mdi-do-disturb-on:before {
+  content: "\uf08f";
 }
 
 .mdi-do-not-disturb:before {
@@ -974,12 +2030,36 @@
   content: "\ue644";
 }
 
+.mdi-do-not-disturb-on-total-silence:before {
+  content: "\ueffb";
+}
+
+.mdi-do-not-step:before {
+  content: "\uf19f";
+}
+
+.mdi-do-not-touch:before {
+  content: "\uf1b0";
+}
+
 .mdi-dock:before {
   content: "\ue30e";
 }
 
+.mdi-document-scanner:before {
+  content: "\ue5fa";
+}
+
 .mdi-domain:before {
   content: "\ue7ee";
+}
+
+.mdi-domain-disabled:before {
+  content: "\ue0ef";
+}
+
+.mdi-domain-verification:before {
+  content: "\uef4c";
 }
 
 .mdi-done:before {
@@ -990,12 +2070,56 @@
   content: "\ue877";
 }
 
+.mdi-done-outline:before {
+  content: "\ue92f";
+}
+
 .mdi-donut-large:before {
   content: "\ue917";
 }
 
 .mdi-donut-small:before {
   content: "\ue918";
+}
+
+.mdi-door-back:before {
+  content: "\ueffc";
+}
+
+.mdi-door-front:before {
+  content: "\ueffd";
+}
+
+.mdi-door-sliding:before {
+  content: "\ueffe";
+}
+
+.mdi-doorbell:before {
+  content: "\uefff";
+}
+
+.mdi-double-arrow:before {
+  content: "\uea50";
+}
+
+.mdi-downhill-skiing:before {
+  content: "\ue509";
+}
+
+.mdi-download:before {
+  content: "\uf090";
+}
+
+.mdi-download-done:before {
+  content: "\uf091";
+}
+
+.mdi-download-for-offline:before {
+  content: "\uf000";
+}
+
+.mdi-downloading:before {
+  content: "\uf001";
 }
 
 .mdi-drafts:before {
@@ -1006,28 +2130,212 @@
   content: "\ue25d";
 }
 
+.mdi-drag-indicator:before {
+  content: "\ue945";
+}
+
+.mdi-draw:before {
+  content: "\ue746";
+}
+
 .mdi-drive-eta:before {
   content: "\ue613";
+}
+
+.mdi-drive-file-move:before {
+  content: "\ue675";
+}
+
+.mdi-drive-file-move-outline:before {
+  content: "\ue9a1";
+}
+
+.mdi-drive-file-move-rtl:before {
+  content: "\ue76d";
+}
+
+.mdi-drive-file-rename-outline:before {
+  content: "\ue9a2";
+}
+
+.mdi-drive-folder-upload:before {
+  content: "\ue9a3";
+}
+
+.mdi-dry:before {
+  content: "\uf1b3";
+}
+
+.mdi-dry-cleaning:before {
+  content: "\uea58";
+}
+
+.mdi-duo:before {
+  content: "\ue9a5";
 }
 
 .mdi-dvr:before {
   content: "\ue1b2";
 }
 
+.mdi-dynamic-feed:before {
+  content: "\uea14";
+}
+
+.mdi-dynamic-form:before {
+  content: "\uf1bf";
+}
+
+.mdi-e-mobiledata:before {
+  content: "\uf002";
+}
+
+.mdi-earbuds:before {
+  content: "\uf003";
+}
+
+.mdi-earbuds-battery:before {
+  content: "\uf004";
+}
+
+.mdi-east:before {
+  content: "\uf1df";
+}
+
+.mdi-eco:before {
+  content: "\uea35";
+}
+
+.mdi-edgesensor-high:before {
+  content: "\uf005";
+}
+
+.mdi-edgesensor-low:before {
+  content: "\uf006";
+}
+
 .mdi-edit:before {
   content: "\ue3c9";
+}
+
+.mdi-edit-attributes:before {
+  content: "\ue578";
+}
+
+.mdi-edit-calendar:before {
+  content: "\ue742";
 }
 
 .mdi-edit-location:before {
   content: "\ue568";
 }
 
+.mdi-edit-location-alt:before {
+  content: "\ue1c5";
+}
+
+.mdi-edit-note:before {
+  content: "\ue745";
+}
+
+.mdi-edit-notifications:before {
+  content: "\ue525";
+}
+
+.mdi-edit-off:before {
+  content: "\ue950";
+}
+
+.mdi-edit-road:before {
+  content: "\uef4d";
+}
+
 .mdi-eject:before {
   content: "\ue8fb";
 }
 
+.mdi-elderly:before {
+  content: "\uf21a";
+}
+
+.mdi-electric-bike:before {
+  content: "\ueb1b";
+}
+
+.mdi-electric-car:before {
+  content: "\ueb1c";
+}
+
+.mdi-electric-moped:before {
+  content: "\ueb1d";
+}
+
+.mdi-electric-rickshaw:before {
+  content: "\ueb1e";
+}
+
+.mdi-electric-scooter:before {
+  content: "\ueb1f";
+}
+
+.mdi-electrical-services:before {
+  content: "\uf102";
+}
+
+.mdi-elevator:before {
+  content: "\uf1a0";
+}
+
 .mdi-email:before {
   content: "\ue0be";
+}
+
+.mdi-emergency:before {
+  content: "\ue1eb";
+}
+
+.mdi-emoji-emotions:before {
+  content: "\uea22";
+}
+
+.mdi-emoji-events:before {
+  content: "\uea23";
+}
+
+.mdi-emoji-flags:before {
+  content: "\uea1a";
+}
+
+.mdi-emoji-food-beverage:before {
+  content: "\uea1b";
+}
+
+.mdi-emoji-nature:before {
+  content: "\uea1c";
+}
+
+.mdi-emoji-objects:before {
+  content: "\uea24";
+}
+
+.mdi-emoji-people:before {
+  content: "\uea1d";
+}
+
+.mdi-emoji-symbols:before {
+  content: "\uea1e";
+}
+
+.mdi-emoji-transportation:before {
+  content: "\uea1f";
+}
+
+.mdi-engineering:before {
+  content: "\uea3d";
+}
+
+.mdi-enhance-photo-translate:before {
+  content: "\ue8fc";
 }
 
 .mdi-enhanced-encryption:before {
@@ -1044,6 +2352,18 @@
 
 .mdi-error-outline:before {
   content: "\ue001";
+}
+
+.mdi-escalator:before {
+  content: "\uf1a1";
+}
+
+.mdi-escalator-warning:before {
+  content: "\uf1ac";
+}
+
+.mdi-euro:before {
+  content: "\uea15";
 }
 
 .mdi-euro-symbol:before {
@@ -1078,6 +2398,10 @@
   content: "\ue879";
 }
 
+.mdi-expand:before {
+  content: "\ue94f";
+}
+
 .mdi-expand-less:before {
   content: "\ue5ce";
 }
@@ -1094,8 +2418,20 @@
   content: "\ue87a";
 }
 
+.mdi-explore-off:before {
+  content: "\ue9a8";
+}
+
 .mdi-exposure:before {
   content: "\ue3ca";
+}
+
+.mdi-exposure-minus-1:before {
+  content: "\ue3cb";
+}
+
+.mdi-exposure-minus-2:before {
+  content: "\ue3cc";
 }
 
 .mdi-exposure-neg-1:before {
@@ -1122,8 +2458,32 @@
   content: "\ue87b";
 }
 
+.mdi-extension-off:before {
+  content: "\ue4f5";
+}
+
 .mdi-face:before {
   content: "\ue87c";
+}
+
+.mdi-face-retouching-natural:before {
+  content: "\uef4e";
+}
+
+.mdi-face-retouching-off:before {
+  content: "\uf007";
+}
+
+.mdi-facebook:before {
+  content: "\uf234";
+}
+
+.mdi-fact-check:before {
+  content: "\uf0c5";
+}
+
+.mdi-family-restroom:before {
+  content: "\uf1a2";
 }
 
 .mdi-fast-forward:before {
@@ -1134,11 +2494,19 @@
   content: "\ue020";
 }
 
+.mdi-fastfood:before {
+  content: "\ue57a";
+}
+
 .mdi-favorite:before {
   content: "\ue87d";
 }
 
 .mdi-favorite-border:before {
+  content: "\ue87e";
+}
+
+.mdi-favorite-outline:before {
   content: "\ue87e";
 }
 
@@ -1150,8 +2518,24 @@
   content: "\ue06e";
 }
 
+.mdi-feed:before {
+  content: "\uf009";
+}
+
 .mdi-feedback:before {
   content: "\ue87f";
+}
+
+.mdi-female:before {
+  content: "\ue590";
+}
+
+.mdi-fence:before {
+  content: "\uf1f6";
+}
+
+.mdi-festival:before {
+  content: "\uea68";
 }
 
 .mdi-fiber-dvr:before {
@@ -1174,8 +2558,24 @@
   content: "\ue062";
 }
 
+.mdi-file-copy:before {
+  content: "\ue173";
+}
+
 .mdi-file-download:before {
   content: "\ue2c4";
+}
+
+.mdi-file-download-done:before {
+  content: "\ue9aa";
+}
+
+.mdi-file-download-off:before {
+  content: "\ue4fe";
+}
+
+.mdi-file-present:before {
+  content: "\uea0e";
 }
 
 .mdi-file-upload:before {
@@ -1226,6 +2626,10 @@
   content: "\ue3da";
 }
 
+.mdi-filter-alt:before {
+  content: "\uef4f";
+}
+
 .mdi-filter-b-and-w:before {
   content: "\ue3db";
 }
@@ -1248,6 +2652,10 @@
 
 .mdi-filter-list:before {
   content: "\ue152";
+}
+
+.mdi-filter-list-alt:before {
+  content: "\ue94e";
 }
 
 .mdi-filter-none:before {
@@ -1274,8 +2682,24 @@
   content: "\ue90d";
 }
 
+.mdi-fire-extinguisher:before {
+  content: "\uf1d8";
+}
+
+.mdi-fire-hydrant:before {
+  content: "\uf1a3";
+}
+
+.mdi-fireplace:before {
+  content: "\uea43";
+}
+
 .mdi-first-page:before {
   content: "\ue5dc";
+}
+
+.mdi-fit-screen:before {
+  content: "\uea10";
 }
 
 .mdi-fitness-center:before {
@@ -1284,6 +2708,10 @@
 
 .mdi-flag:before {
   content: "\ue153";
+}
+
+.mdi-flaky:before {
+  content: "\uef50";
 }
 
 .mdi-flare:before {
@@ -1302,6 +2730,18 @@
   content: "\ue3e7";
 }
 
+.mdi-flashlight-off:before {
+  content: "\uf00a";
+}
+
+.mdi-flashlight-on:before {
+  content: "\uf00b";
+}
+
+.mdi-flatware:before {
+  content: "\uf00c";
+}
+
 .mdi-flight:before {
   content: "\ue539";
 }
@@ -1318,12 +2758,36 @@
   content: "\ue3e8";
 }
 
+.mdi-flip-camera-android:before {
+  content: "\uea37";
+}
+
+.mdi-flip-camera-ios:before {
+  content: "\uea38";
+}
+
 .mdi-flip-to-back:before {
   content: "\ue882";
 }
 
 .mdi-flip-to-front:before {
   content: "\ue883";
+}
+
+.mdi-flourescent:before {
+  content: "\uf00d";
+}
+
+.mdi-flutter-dash:before {
+  content: "\ue00b";
+}
+
+.mdi-fmd-bad:before {
+  content: "\uf00e";
+}
+
+.mdi-fmd-good:before {
+  content: "\uf00f";
 }
 
 .mdi-folder:before {
@@ -1342,8 +2806,20 @@
   content: "\ue617";
 }
 
+.mdi-follow-the-signs:before {
+  content: "\uf222";
+}
+
 .mdi-font-download:before {
   content: "\ue167";
+}
+
+.mdi-font-download-off:before {
+  content: "\ue4f9";
+}
+
+.mdi-food-bank:before {
+  content: "\uf1f2";
 }
 
 .mdi-format-align-center:before {
@@ -1406,6 +2882,10 @@
   content: "\ue242";
 }
 
+.mdi-format-list-numbered-rtl:before {
+  content: "\ue267";
+}
+
 .mdi-format-paint:before {
   content: "\ue243";
 }
@@ -1434,6 +2914,10 @@
   content: "\ue248";
 }
 
+.mdi-format-underline:before {
+  content: "\ue249";
+}
+
 .mdi-format-underlined:before {
   content: "\ue249";
 }
@@ -1458,8 +2942,24 @@
   content: "\ue058";
 }
 
+.mdi-forward-to-inbox:before {
+  content: "\uf187";
+}
+
+.mdi-foundation:before {
+  content: "\uf200";
+}
+
 .mdi-free-breakfast:before {
   content: "\ueb44";
+}
+
+.mdi-free-cancellation:before {
+  content: "\ue748";
+}
+
+.mdi-front-hand:before {
+  content: "\ue769";
 }
 
 .mdi-fullscreen:before {
@@ -1474,6 +2974,10 @@
   content: "\ue24a";
 }
 
+.mdi-g-mobiledata:before {
+  content: "\uf010";
+}
+
 .mdi-g-translate:before {
   content: "\ue927";
 }
@@ -1486,8 +2990,16 @@
   content: "\ue021";
 }
 
+.mdi-garage:before {
+  content: "\uf011";
+}
+
 .mdi-gavel:before {
   content: "\ue90e";
+}
+
+.mdi-generating-tokens:before {
+  content: "\ue749";
 }
 
 .mdi-gesture:before {
@@ -1502,8 +3014,28 @@
   content: "\ue908";
 }
 
+.mdi-gite:before {
+  content: "\ue58b";
+}
+
+.mdi-goat:before {
+  content: "\u10fffd";
+}
+
 .mdi-golf-course:before {
   content: "\ueb45";
+}
+
+.mdi-gpp-bad:before {
+  content: "\uf012";
+}
+
+.mdi-gpp-good:before {
+  content: "\uf013";
+}
+
+.mdi-gpp-maybe:before {
+  content: "\uf014";
 }
 
 .mdi-gps-fixed:before {
@@ -1526,12 +3058,32 @@
   content: "\ue3e9";
 }
 
+.mdi-grading:before {
+  content: "\uea4f";
+}
+
 .mdi-grain:before {
   content: "\ue3ea";
 }
 
 .mdi-graphic-eq:before {
   content: "\ue1b8";
+}
+
+.mdi-grass:before {
+  content: "\uf205";
+}
+
+.mdi-grid-3x3:before {
+  content: "\uf015";
+}
+
+.mdi-grid-4x4:before {
+  content: "\uf016";
+}
+
+.mdi-grid-goldenratio:before {
+  content: "\uf017";
 }
 
 .mdi-grid-off:before {
@@ -1542,6 +3094,10 @@
   content: "\ue3ec";
 }
 
+.mdi-grid-view:before {
+  content: "\ue9b0";
+}
+
 .mdi-group:before {
   content: "\ue7ef";
 }
@@ -1550,20 +3106,72 @@
   content: "\ue7f0";
 }
 
+.mdi-group-off:before {
+  content: "\ue747";
+}
+
 .mdi-group-work:before {
   content: "\ue886";
+}
+
+.mdi-groups:before {
+  content: "\uf233";
+}
+
+.mdi-h-mobiledata:before {
+  content: "\uf018";
+}
+
+.mdi-h-plus-mobiledata:before {
+  content: "\uf019";
+}
+
+.mdi-hail:before {
+  content: "\ue9b1";
+}
+
+.mdi-handyman:before {
+  content: "\uf10b";
+}
+
+.mdi-hardware:before {
+  content: "\uea59";
 }
 
 .mdi-hd:before {
   content: "\ue052";
 }
 
+.mdi-hdr-auto:before {
+  content: "\uf01a";
+}
+
+.mdi-hdr-auto-select:before {
+  content: "\uf01b";
+}
+
+.mdi-hdr-enhanced-select:before {
+  content: "\uef51";
+}
+
 .mdi-hdr-off:before {
   content: "\ue3ed";
 }
 
+.mdi-hdr-off-select:before {
+  content: "\uf01c";
+}
+
 .mdi-hdr-on:before {
   content: "\ue3ee";
+}
+
+.mdi-hdr-on-select:before {
+  content: "\uf01d";
+}
+
+.mdi-hdr-plus:before {
+  content: "\uf01e";
 }
 
 .mdi-hdr-strong:before {
@@ -1574,6 +3182,14 @@
   content: "\ue3f2";
 }
 
+.mdi-headphones:before {
+  content: "\uf01f";
+}
+
+.mdi-headphones-battery:before {
+  content: "\uf020";
+}
+
 .mdi-headset:before {
   content: "\ue310";
 }
@@ -1582,20 +3198,52 @@
   content: "\ue311";
 }
 
+.mdi-headset-off:before {
+  content: "\ue33a";
+}
+
 .mdi-healing:before {
   content: "\ue3f3";
+}
+
+.mdi-health-and-safety:before {
+  content: "\ue1d5";
 }
 
 .mdi-hearing:before {
   content: "\ue023";
 }
 
+.mdi-hearing-disabled:before {
+  content: "\uf104";
+}
+
+.mdi-height:before {
+  content: "\uea16";
+}
+
 .mdi-help:before {
   content: "\ue887";
 }
 
+.mdi-help-center:before {
+  content: "\uf1c0";
+}
+
 .mdi-help-outline:before {
   content: "\ue8fd";
+}
+
+.mdi-hevc:before {
+  content: "\uf021";
+}
+
+.mdi-hide-image:before {
+  content: "\uf022";
+}
+
+.mdi-hide-source:before {
+  content: "\uf023";
 }
 
 .mdi-high-quality:before {
@@ -1606,16 +3254,72 @@
   content: "\ue25f";
 }
 
+.mdi-highlight-alt:before {
+  content: "\uef52";
+}
+
 .mdi-highlight-off:before {
   content: "\ue888";
+}
+
+.mdi-highlight-remove:before {
+  content: "\ue888";
+}
+
+.mdi-hiking:before {
+  content: "\ue50a";
 }
 
 .mdi-history:before {
   content: "\ue889";
 }
 
+.mdi-history-edu:before {
+  content: "\uea3e";
+}
+
+.mdi-history-toggle-off:before {
+  content: "\uf17d";
+}
+
+.mdi-holiday-village:before {
+  content: "\ue58a";
+}
+
 .mdi-home:before {
   content: "\ue88a";
+}
+
+.mdi-home-filled:before {
+  content: "\ue9b2";
+}
+
+.mdi-home-max:before {
+  content: "\uf024";
+}
+
+.mdi-home-mini:before {
+  content: "\uf025";
+}
+
+.mdi-home-repair-service:before {
+  content: "\uf100";
+}
+
+.mdi-home-work:before {
+  content: "\uea09";
+}
+
+.mdi-horizontal-distribute:before {
+  content: "\ue014";
+}
+
+.mdi-horizontal-rule:before {
+  content: "\uf108";
+}
+
+.mdi-horizontal-split:before {
+  content: "\ue947";
 }
 
 .mdi-hot-tub:before {
@@ -1626,12 +3330,48 @@
   content: "\ue53a";
 }
 
+.mdi-hotel-class:before {
+  content: "\ue743";
+}
+
+.mdi-hourglass-bottom:before {
+  content: "\uea5c";
+}
+
+.mdi-hourglass-disabled:before {
+  content: "\uef53";
+}
+
 .mdi-hourglass-empty:before {
   content: "\ue88b";
 }
 
 .mdi-hourglass-full:before {
   content: "\ue88c";
+}
+
+.mdi-hourglass-top:before {
+  content: "\uea5b";
+}
+
+.mdi-house:before {
+  content: "\uea44";
+}
+
+.mdi-house-siding:before {
+  content: "\uf202";
+}
+
+.mdi-houseboat:before {
+  content: "\ue584";
+}
+
+.mdi-how-to-reg:before {
+  content: "\ue174";
+}
+
+.mdi-how-to-vote:before {
+  content: "\ue175";
 }
 
 .mdi-http:before {
@@ -1642,12 +3382,36 @@
   content: "\ue88d";
 }
 
+.mdi-hvac:before {
+  content: "\uf10e";
+}
+
+.mdi-ice-skating:before {
+  content: "\ue50b";
+}
+
+.mdi-icecream:before {
+  content: "\uea69";
+}
+
 .mdi-image:before {
   content: "\ue3f4";
 }
 
 .mdi-image-aspect-ratio:before {
   content: "\ue3f5";
+}
+
+.mdi-image-not-supported:before {
+  content: "\uf116";
+}
+
+.mdi-image-search:before {
+  content: "\ue43f";
+}
+
+.mdi-imagesearch-roller:before {
+  content: "\ue9b4";
 }
 
 .mdi-import-contacts:before {
@@ -1664,6 +3428,10 @@
 
 .mdi-inbox:before {
   content: "\ue156";
+}
+
+.mdi-incomplete-circle:before {
+  content: "\ue79b";
 }
 
 .mdi-indeterminate-check-box:before {
@@ -1684,6 +3452,10 @@
 
 .mdi-insert-chart:before {
   content: "\ue24b";
+}
+
+.mdi-insert-chart-outlined:before {
+  content: "\ue26a";
 }
 
 .mdi-insert-comment:before {
@@ -1710,6 +3482,22 @@
   content: "\ue251";
 }
 
+.mdi-insights:before {
+  content: "\uf092";
+}
+
+.mdi-integration-instructions:before {
+  content: "\uef54";
+}
+
+.mdi-inventory:before {
+  content: "\ue179";
+}
+
+.mdi-inventory-2:before {
+  content: "\ue1a1";
+}
+
 .mdi-invert-colors:before {
   content: "\ue891";
 }
@@ -1718,12 +3506,32 @@
   content: "\ue0c4";
 }
 
+.mdi-invert-colors-on:before {
+  content: "\ue891";
+}
+
+.mdi-ios-share:before {
+  content: "\ue6b8";
+}
+
+.mdi-iron:before {
+  content: "\ue583";
+}
+
 .mdi-iso:before {
   content: "\ue3f6";
 }
 
+.mdi-kayaking:before {
+  content: "\ue50c";
+}
+
 .mdi-keyboard:before {
   content: "\ue312";
+}
+
+.mdi-keyboard-alt:before {
+  content: "\uf028";
 }
 
 .mdi-keyboard-arrow-down:before {
@@ -1750,6 +3558,10 @@
   content: "\ue318";
 }
 
+.mdi-keyboard-control:before {
+  content: "\ue5d3";
+}
+
 .mdi-keyboard-hide:before {
   content: "\ue31a";
 }
@@ -1766,12 +3578,32 @@
   content: "\ue31d";
 }
 
+.mdi-king-bed:before {
+  content: "\uea45";
+}
+
 .mdi-kitchen:before {
   content: "\ueb47";
 }
 
+.mdi-kitesurfing:before {
+  content: "\ue50d";
+}
+
 .mdi-label:before {
   content: "\ue892";
+}
+
+.mdi-label-important:before {
+  content: "\ue937";
+}
+
+.mdi-label-important-outline:before {
+  content: "\ue948";
+}
+
+.mdi-label-off:before {
+  content: "\ue9b6";
 }
 
 .mdi-label-outline:before {
@@ -1818,6 +3650,10 @@
   content: "\ue53c";
 }
 
+.mdi-leaderboard:before {
+  content: "\uf20c";
+}
+
 .mdi-leak-add:before {
   content: "\ue3f8";
 }
@@ -1826,12 +3662,28 @@
   content: "\ue3f9";
 }
 
+.mdi-leave-bags-at-home:before {
+  content: "\uf21b";
+}
+
+.mdi-legend-toggle:before {
+  content: "\uf11b";
+}
+
 .mdi-lens:before {
   content: "\ue3fa";
 }
 
+.mdi-lens-blur:before {
+  content: "\uf029";
+}
+
 .mdi-library-add:before {
   content: "\ue02e";
+}
+
+.mdi-library-add-check:before {
+  content: "\ue9b7";
 }
 
 .mdi-library-books:before {
@@ -1840,6 +3692,18 @@
 
 .mdi-library-music:before {
   content: "\ue030";
+}
+
+.mdi-light:before {
+  content: "\uf02a";
+}
+
+.mdi-light-mode:before {
+  content: "\ue518";
+}
+
+.mdi-lightbulb:before {
+  content: "\ue0f0";
 }
 
 .mdi-lightbulb-outline:before {
@@ -1862,12 +3726,24 @@
   content: "\ue157";
 }
 
+.mdi-link-off:before {
+  content: "\ue16f";
+}
+
 .mdi-linked-camera:before {
   content: "\ue438";
 }
 
+.mdi-liquor:before {
+  content: "\uea60";
+}
+
 .mdi-list:before {
   content: "\ue896";
+}
+
+.mdi-list-alt:before {
+  content: "\ue0ee";
 }
 
 .mdi-live-help:before {
@@ -1876,6 +3752,10 @@
 
 .mdi-live-tv:before {
   content: "\ue639";
+}
+
+.mdi-living:before {
+  content: "\uf02b";
 }
 
 .mdi-local-activity:before {
@@ -1888,6 +3768,10 @@
 
 .mdi-local-atm:before {
   content: "\ue53e";
+}
+
+.mdi-local-attraction:before {
+  content: "\ue53f";
 }
 
 .mdi-local-bar:before {
@@ -1912,6 +3796,10 @@
 
 .mdi-local-drink:before {
   content: "\ue544";
+}
+
+.mdi-local-fire-department:before {
+  content: "\uef55";
 }
 
 .mdi-local-florist:before {
@@ -1974,12 +3862,24 @@
   content: "\ue553";
 }
 
+.mdi-local-police:before {
+  content: "\uef56";
+}
+
 .mdi-local-post-office:before {
   content: "\ue554";
 }
 
+.mdi-local-print-shop:before {
+  content: "\ue555";
+}
+
 .mdi-local-printshop:before {
   content: "\ue555";
+}
+
+.mdi-local-restaurant:before {
+  content: "\ue556";
 }
 
 .mdi-local-see:before {
@@ -2002,12 +3902,20 @@
   content: "\ue1b6";
 }
 
+.mdi-location-history:before {
+  content: "\ue55a";
+}
+
 .mdi-location-off:before {
   content: "\ue0c7";
 }
 
 .mdi-location-on:before {
   content: "\ue0c8";
+}
+
+.mdi-location-pin:before {
+  content: "\uf1db";
 }
 
 .mdi-location-searching:before {
@@ -2018,12 +3926,24 @@
   content: "\ue897";
 }
 
+.mdi-lock-clock:before {
+  content: "\uef57";
+}
+
 .mdi-lock-open:before {
   content: "\ue898";
 }
 
 .mdi-lock-outline:before {
   content: "\ue899";
+}
+
+.mdi-login:before {
+  content: "\uea77";
+}
+
+.mdi-logout:before {
+  content: "\ue9ba";
 }
 
 .mdi-looks:before {
@@ -2070,6 +3990,22 @@
   content: "\ue89a";
 }
 
+.mdi-lte-mobiledata:before {
+  content: "\uf02c";
+}
+
+.mdi-lte-plus-mobiledata:before {
+  content: "\uf02d";
+}
+
+.mdi-luggage:before {
+  content: "\uf235";
+}
+
+.mdi-lunch-dining:before {
+  content: "\uea61";
+}
+
 .mdi-mail:before {
   content: "\ue158";
 }
@@ -2078,8 +4014,52 @@
   content: "\ue0e1";
 }
 
+.mdi-male:before {
+  content: "\ue58e";
+}
+
+.mdi-manage-accounts:before {
+  content: "\uf02e";
+}
+
+.mdi-manage-search:before {
+  content: "\uf02f";
+}
+
 .mdi-map:before {
   content: "\ue55b";
+}
+
+.mdi-maps-home-work:before {
+  content: "\uf030";
+}
+
+.mdi-maps-ugc:before {
+  content: "\uef58";
+}
+
+.mdi-margin:before {
+  content: "\ue9bb";
+}
+
+.mdi-mark-as-unread:before {
+  content: "\ue9bc";
+}
+
+.mdi-mark-chat-read:before {
+  content: "\uf18b";
+}
+
+.mdi-mark-chat-unread:before {
+  content: "\uf189";
+}
+
+.mdi-mark-email-read:before {
+  content: "\uf18c";
+}
+
+.mdi-mark-email-unread:before {
+  content: "\uf18a";
 }
 
 .mdi-markunread:before {
@@ -2090,12 +4070,52 @@
   content: "\ue89b";
 }
 
+.mdi-masks:before {
+  content: "\uf218";
+}
+
+.mdi-maximize:before {
+  content: "\ue930";
+}
+
+.mdi-media-bluetooth-off:before {
+  content: "\uf031";
+}
+
+.mdi-media-bluetooth-on:before {
+  content: "\uf032";
+}
+
+.mdi-mediation:before {
+  content: "\uefa7";
+}
+
+.mdi-medical-services:before {
+  content: "\uf109";
+}
+
+.mdi-medication:before {
+  content: "\uf033";
+}
+
+.mdi-meeting-room:before {
+  content: "\ueb4f";
+}
+
 .mdi-memory:before {
   content: "\ue322";
 }
 
 .mdi-menu:before {
   content: "\ue5d2";
+}
+
+.mdi-menu-book:before {
+  content: "\uea19";
+}
+
+.mdi-menu-open:before {
+  content: "\ue9bd";
 }
 
 .mdi-merge-type:before {
@@ -2106,8 +4126,24 @@
   content: "\ue0c9";
 }
 
+.mdi-messenger:before {
+  content: "\ue0ca";
+}
+
+.mdi-messenger-outline:before {
+  content: "\ue0cb";
+}
+
 .mdi-mic:before {
   content: "\ue029";
+}
+
+.mdi-mic-external-off:before {
+  content: "\uef59";
+}
+
+.mdi-mic-external-on:before {
+  content: "\uef5a";
 }
 
 .mdi-mic-none:before {
@@ -2118,8 +4154,48 @@
   content: "\ue02b";
 }
 
+.mdi-microwave:before {
+  content: "\uf204";
+}
+
+.mdi-military-tech:before {
+  content: "\uea3f";
+}
+
+.mdi-minimize:before {
+  content: "\ue931";
+}
+
+.mdi-miscellaneous-services:before {
+  content: "\uf10c";
+}
+
+.mdi-missed-video-call:before {
+  content: "\ue073";
+}
+
 .mdi-mms:before {
   content: "\ue618";
+}
+
+.mdi-mobile-friendly:before {
+  content: "\ue200";
+}
+
+.mdi-mobile-off:before {
+  content: "\ue201";
+}
+
+.mdi-mobile-screen-share:before {
+  content: "\ue0e7";
+}
+
+.mdi-mobiledata-off:before {
+  content: "\uf034";
+}
+
+.mdi-mode:before {
+  content: "\uf097";
 }
 
 .mdi-mode-comment:before {
@@ -2130,12 +4206,44 @@
   content: "\ue254";
 }
 
+.mdi-mode-edit-outline:before {
+  content: "\uf035";
+}
+
+.mdi-mode-night:before {
+  content: "\uf036";
+}
+
+.mdi-mode-standby:before {
+  content: "\uf037";
+}
+
+.mdi-model-training:before {
+  content: "\uf0cf";
+}
+
 .mdi-monetization-on:before {
   content: "\ue263";
 }
 
+.mdi-money:before {
+  content: "\ue57d";
+}
+
 .mdi-money-off:before {
   content: "\ue25c";
+}
+
+.mdi-money-off-csred:before {
+  content: "\uf038";
+}
+
+.mdi-monitor:before {
+  content: "\uef5b";
+}
+
+.mdi-monitor-weight:before {
+  content: "\uf039";
 }
 
 .mdi-monochrome-photos:before {
@@ -2150,6 +4258,10 @@
   content: "\ue7f3";
 }
 
+.mdi-moped:before {
+  content: "\ueb28";
+}
+
 .mdi-more:before {
   content: "\ue619";
 }
@@ -2158,8 +4270,32 @@
   content: "\ue5d3";
 }
 
+.mdi-more-time:before {
+  content: "\uea5d";
+}
+
 .mdi-more-vert:before {
   content: "\ue5d4";
+}
+
+.mdi-motion-photos-auto:before {
+  content: "\uf03a";
+}
+
+.mdi-motion-photos-off:before {
+  content: "\ue9c0";
+}
+
+.mdi-motion-photos-on:before {
+  content: "\ue9c1";
+}
+
+.mdi-motion-photos-pause:before {
+  content: "\uf227";
+}
+
+.mdi-motion-photos-paused:before {
+  content: "\ue9c2";
 }
 
 .mdi-motorcycle:before {
@@ -2186,20 +4322,60 @@
   content: "\ue43a";
 }
 
+.mdi-moving:before {
+  content: "\ue501";
+}
+
+.mdi-mp:before {
+  content: "\ue9c3";
+}
+
 .mdi-multiline-chart:before {
   content: "\ue6df";
+}
+
+.mdi-multiple-stop:before {
+  content: "\uf1b9";
+}
+
+.mdi-multitrack-audio:before {
+  content: "\ue1b8";
+}
+
+.mdi-museum:before {
+  content: "\uea36";
 }
 
 .mdi-music-note:before {
   content: "\ue405";
 }
 
+.mdi-music-off:before {
+  content: "\ue440";
+}
+
 .mdi-music-video:before {
   content: "\ue063";
 }
 
+.mdi-my-library-add:before {
+  content: "\ue02e";
+}
+
+.mdi-my-library-books:before {
+  content: "\ue02f";
+}
+
+.mdi-my-library-music:before {
+  content: "\ue030";
+}
+
 .mdi-my-location:before {
   content: "\ue55c";
+}
+
+.mdi-nat:before {
+  content: "\uef5c";
 }
 
 .mdi-nature:before {
@@ -2226,6 +4402,18 @@
   content: "\ue569";
 }
 
+.mdi-near-me-disabled:before {
+  content: "\uf1ef";
+}
+
+.mdi-nearby-error:before {
+  content: "\uf03b";
+}
+
+.mdi-nearby-off:before {
+  content: "\uf03c";
+}
+
 .mdi-network-cell:before {
   content: "\ue1b9";
 }
@@ -2242,8 +4430,16 @@
   content: "\ue1ba";
 }
 
+.mdi-new-label:before {
+  content: "\ue609";
+}
+
 .mdi-new-releases:before {
   content: "\ue031";
+}
+
+.mdi-next-plan:before {
+  content: "\uef5d";
 }
 
 .mdi-next-week:before {
@@ -2254,16 +4450,120 @@
   content: "\ue1bb";
 }
 
+.mdi-night-shelter:before {
+  content: "\uf1f1";
+}
+
+.mdi-nightlife:before {
+  content: "\uea62";
+}
+
+.mdi-nightlight:before {
+  content: "\uf03d";
+}
+
+.mdi-nightlight-round:before {
+  content: "\uef5e";
+}
+
+.mdi-nights-stay:before {
+  content: "\uea46";
+}
+
+.mdi-no-accounts:before {
+  content: "\uf03e";
+}
+
+.mdi-no-backpack:before {
+  content: "\uf237";
+}
+
+.mdi-no-cell:before {
+  content: "\uf1a4";
+}
+
+.mdi-no-drinks:before {
+  content: "\uf1a5";
+}
+
 .mdi-no-encryption:before {
   content: "\ue641";
+}
+
+.mdi-no-encryption-gmailerrorred:before {
+  content: "\uf03f";
+}
+
+.mdi-no-flash:before {
+  content: "\uf1a6";
+}
+
+.mdi-no-food:before {
+  content: "\uf1a7";
+}
+
+.mdi-no-luggage:before {
+  content: "\uf23b";
+}
+
+.mdi-no-meals:before {
+  content: "\uf1d6";
+}
+
+.mdi-no-meals-ouline:before {
+  content: "\uf229";
+}
+
+.mdi-no-meeting-room:before {
+  content: "\ueb4e";
+}
+
+.mdi-no-photography:before {
+  content: "\uf1a8";
 }
 
 .mdi-no-sim:before {
   content: "\ue0cc";
 }
 
+.mdi-no-stroller:before {
+  content: "\uf1af";
+}
+
+.mdi-no-transfer:before {
+  content: "\uf1d5";
+}
+
+.mdi-nordic-walking:before {
+  content: "\ue50e";
+}
+
+.mdi-north:before {
+  content: "\uf1e0";
+}
+
+.mdi-north-east:before {
+  content: "\uf1e1";
+}
+
+.mdi-north-west:before {
+  content: "\uf1e2";
+}
+
+.mdi-not-accessible:before {
+  content: "\uf0fe";
+}
+
 .mdi-not-interested:before {
   content: "\ue033";
+}
+
+.mdi-not-listed-location:before {
+  content: "\ue575";
+}
+
+.mdi-not-started:before {
+  content: "\uf0d1";
 }
 
 .mdi-note:before {
@@ -2272,6 +4572,22 @@
 
 .mdi-note-add:before {
   content: "\ue89c";
+}
+
+.mdi-note-alt:before {
+  content: "\uf040";
+}
+
+.mdi-notes:before {
+  content: "\ue26c";
+}
+
+.mdi-notification-add:before {
+  content: "\ue399";
+}
+
+.mdi-notification-important:before {
+  content: "\ue004";
 }
 
 .mdi-notifications:before {
@@ -2290,16 +4606,40 @@
   content: "\ue7f6";
 }
 
+.mdi-notifications-on:before {
+  content: "\ue7f7";
+}
+
 .mdi-notifications-paused:before {
   content: "\ue7f8";
+}
+
+.mdi-now-wallpaper:before {
+  content: "\ue1bc";
+}
+
+.mdi-now-widgets:before {
+  content: "\ue1bd";
+}
+
+.mdi-offline-bolt:before {
+  content: "\ue932";
 }
 
 .mdi-offline-pin:before {
   content: "\ue90a";
 }
 
+.mdi-offline-share:before {
+  content: "\ue9c5";
+}
+
 .mdi-ondemand-video:before {
   content: "\ue63a";
+}
+
+.mdi-online-prediction:before {
+  content: "\uf0eb";
 }
 
 .mdi-opacity:before {
@@ -2310,12 +4650,56 @@
   content: "\ue89d";
 }
 
+.mdi-open-in-full:before {
+  content: "\uf1ce";
+}
+
 .mdi-open-in-new:before {
   content: "\ue89e";
 }
 
+.mdi-open-in-new-off:before {
+  content: "\ue4f6";
+}
+
 .mdi-open-with:before {
   content: "\ue89f";
+}
+
+.mdi-other-houses:before {
+  content: "\ue58c";
+}
+
+.mdi-outbond:before {
+  content: "\uf228";
+}
+
+.mdi-outbound:before {
+  content: "\ue1ca";
+}
+
+.mdi-outbox:before {
+  content: "\uef5f";
+}
+
+.mdi-outdoor-grill:before {
+  content: "\uea47";
+}
+
+.mdi-outgoing-mail:before {
+  content: "\uf0d2";
+}
+
+.mdi-outlet:before {
+  content: "\uf1d4";
+}
+
+.mdi-outlined-flag:before {
+  content: "\ue16e";
+}
+
+.mdi-padding:before {
+  content: "\ue9c8";
 }
 
 .mdi-pages:before {
@@ -2324,6 +4708,10 @@
 
 .mdi-pageview:before {
   content: "\ue8a0";
+}
+
+.mdi-paid:before {
+  content: "\uf041";
 }
 
 .mdi-palette:before {
@@ -2342,24 +4730,68 @@
   content: "\ue40c";
 }
 
+.mdi-panorama-fisheye:before {
+  content: "\ue40c";
+}
+
 .mdi-panorama-horizontal:before {
   content: "\ue40d";
+}
+
+.mdi-panorama-horizontal-select:before {
+  content: "\uef60";
+}
+
+.mdi-panorama-photosphere:before {
+  content: "\ue9c9";
+}
+
+.mdi-panorama-photosphere-select:before {
+  content: "\ue9ca";
 }
 
 .mdi-panorama-vertical:before {
   content: "\ue40e";
 }
 
+.mdi-panorama-vertical-select:before {
+  content: "\uef61";
+}
+
 .mdi-panorama-wide-angle:before {
   content: "\ue40f";
+}
+
+.mdi-panorama-wide-angle-select:before {
+  content: "\uef62";
+}
+
+.mdi-paragliding:before {
+  content: "\ue50f";
+}
+
+.mdi-park:before {
+  content: "\uea63";
 }
 
 .mdi-party-mode:before {
   content: "\ue7fa";
 }
 
+.mdi-password:before {
+  content: "\uf042";
+}
+
+.mdi-pattern:before {
+  content: "\uf043";
+}
+
 .mdi-pause:before {
   content: "\ue034";
+}
+
+.mdi-pause-circle:before {
+  content: "\ue1a2";
 }
 
 .mdi-pause-circle-filled:before {
@@ -2370,12 +4802,36 @@
   content: "\ue036";
 }
 
+.mdi-pause-presentation:before {
+  content: "\ue0ea";
+}
+
 .mdi-payment:before {
   content: "\ue8a1";
 }
 
+.mdi-payments:before {
+  content: "\uef63";
+}
+
+.mdi-pedal-bike:before {
+  content: "\ueb29";
+}
+
+.mdi-pending:before {
+  content: "\uef64";
+}
+
+.mdi-pending-actions:before {
+  content: "\uf1bb";
+}
+
 .mdi-people:before {
   content: "\ue7fb";
+}
+
+.mdi-people-alt:before {
+  content: "\uea21";
 }
 
 .mdi-people-outline:before {
@@ -2386,12 +4842,20 @@
   content: "\ue8a2";
 }
 
+.mdi-perm-contact-cal:before {
+  content: "\ue8a3";
+}
+
 .mdi-perm-contact-calendar:before {
   content: "\ue8a3";
 }
 
 .mdi-perm-data-setting:before {
   content: "\ue8a4";
+}
+
+.mdi-perm-device-info:before {
+  content: "\ue8a5";
 }
 
 .mdi-perm-device-information:before {
@@ -2422,6 +4886,22 @@
   content: "\ue7fe";
 }
 
+.mdi-person-add-alt:before {
+  content: "\uea4d";
+}
+
+.mdi-person-add-alt-1:before {
+  content: "\uef65";
+}
+
+.mdi-person-add-disabled:before {
+  content: "\ue9cb";
+}
+
+.mdi-person-off:before {
+  content: "\ue510";
+}
+
 .mdi-person-outline:before {
   content: "\ue7ff";
 }
@@ -2434,8 +4914,32 @@
   content: "\ue56a";
 }
 
+.mdi-person-remove:before {
+  content: "\uef66";
+}
+
+.mdi-person-remove-alt-1:before {
+  content: "\uef67";
+}
+
+.mdi-person-search:before {
+  content: "\uf106";
+}
+
+.mdi-personal-injury:before {
+  content: "\ue6da";
+}
+
 .mdi-personal-video:before {
   content: "\ue63b";
+}
+
+.mdi-pest-control:before {
+  content: "\uf0fa";
+}
+
+.mdi-pest-control-rodent:before {
+  content: "\uf0fd";
 }
 
 .mdi-pets:before {
@@ -2452,6 +4956,18 @@
 
 .mdi-phone-bluetooth-speaker:before {
   content: "\ue61b";
+}
+
+.mdi-phone-callback:before {
+  content: "\ue649";
+}
+
+.mdi-phone-disabled:before {
+  content: "\ue9cc";
+}
+
+.mdi-phone-enabled:before {
+  content: "\ue9cd";
 }
 
 .mdi-phone-forwarded:before {
@@ -2514,6 +5030,14 @@
   content: "\ue412";
 }
 
+.mdi-photo-camera-back:before {
+  content: "\uef68";
+}
+
+.mdi-photo-camera-front:before {
+  content: "\uef69";
+}
+
 .mdi-photo-filter:before {
   content: "\ue43b";
 }
@@ -2534,6 +5058,14 @@
   content: "\ue434";
 }
 
+.mdi-piano:before {
+  content: "\ue521";
+}
+
+.mdi-piano-off:before {
+  content: "\ue520";
+}
+
 .mdi-picture-as-pdf:before {
   content: "\ue415";
 }
@@ -2550,20 +5082,52 @@
   content: "\ue6c4";
 }
 
+.mdi-pie-chart-outline:before {
+  content: "\uf044";
+}
+
 .mdi-pie-chart-outlined:before {
   content: "\ue6c5";
+}
+
+.mdi-pin:before {
+  content: "\uf045";
 }
 
 .mdi-pin-drop:before {
   content: "\ue55e";
 }
 
+.mdi-pin-end:before {
+  content: "\ue767";
+}
+
+.mdi-pin-invoke:before {
+  content: "\ue763";
+}
+
+.mdi-pivot-table-chart:before {
+  content: "\ue9ce";
+}
+
 .mdi-place:before {
   content: "\ue55f";
 }
 
+.mdi-plagiarism:before {
+  content: "\uea5a";
+}
+
 .mdi-play-arrow:before {
   content: "\ue037";
+}
+
+.mdi-play-circle:before {
+  content: "\ue1c4";
+}
+
+.mdi-play-circle-fill:before {
+  content: "\ue038";
 }
 
 .mdi-play-circle-filled:before {
@@ -2574,8 +5138,16 @@
   content: "\ue039";
 }
 
+.mdi-play-disabled:before {
+  content: "\uef6a";
+}
+
 .mdi-play-for-work:before {
   content: "\ue906";
+}
+
+.mdi-play-lesson:before {
+  content: "\uf047";
 }
 
 .mdi-playlist-add:before {
@@ -2590,8 +5162,24 @@
   content: "\ue05f";
 }
 
+.mdi-plumbing:before {
+  content: "\uf107";
+}
+
 .mdi-plus-one:before {
   content: "\ue800";
+}
+
+.mdi-podcasts:before {
+  content: "\uf048";
+}
+
+.mdi-point-of-sale:before {
+  content: "\uf17e";
+}
+
+.mdi-policy:before {
+  content: "\uea17";
 }
 
 .mdi-poll:before {
@@ -2614,6 +5202,10 @@
   content: "\ue416";
 }
 
+.mdi-post-add:before {
+  content: "\uea20";
+}
+
 .mdi-power:before {
   content: "\ue63c";
 }
@@ -2622,8 +5214,16 @@
   content: "\ue336";
 }
 
+.mdi-power-off:before {
+  content: "\ue646";
+}
+
 .mdi-power-settings-new:before {
   content: "\ue8ac";
+}
+
+.mdi-precision-manufacturing:before {
+  content: "\uf049";
 }
 
 .mdi-pregnant-woman:before {
@@ -2634,24 +5234,84 @@
   content: "\ue0df";
 }
 
+.mdi-preview:before {
+  content: "\uf1c5";
+}
+
+.mdi-price-change:before {
+  content: "\uf04a";
+}
+
+.mdi-price-check:before {
+  content: "\uf04b";
+}
+
 .mdi-print:before {
   content: "\ue8ad";
+}
+
+.mdi-print-disabled:before {
+  content: "\ue9cf";
 }
 
 .mdi-priority-high:before {
   content: "\ue645";
 }
 
+.mdi-privacy-tip:before {
+  content: "\uf0dc";
+}
+
+.mdi-private-connectivity:before {
+  content: "\ue744";
+}
+
+.mdi-production-quantity-limits:before {
+  content: "\ue1d1";
+}
+
+.mdi-psychology:before {
+  content: "\uea4a";
+}
+
 .mdi-public:before {
   content: "\ue80b";
+}
+
+.mdi-public-off:before {
+  content: "\uf1ca";
 }
 
 .mdi-publish:before {
   content: "\ue255";
 }
 
+.mdi-published-with-changes:before {
+  content: "\uf232";
+}
+
+.mdi-push-pin:before {
+  content: "\uf10d";
+}
+
+.mdi-qr-code:before {
+  content: "\uef6b";
+}
+
+.mdi-qr-code-2:before {
+  content: "\ue00a";
+}
+
+.mdi-qr-code-scanner:before {
+  content: "\uf206";
+}
+
 .mdi-query-builder:before {
   content: "\ue8ae";
+}
+
+.mdi-query-stats:before {
+  content: "\ue4fc";
 }
 
 .mdi-question-answer:before {
@@ -2670,6 +5330,30 @@
   content: "\ue066";
 }
 
+.mdi-quick-contacts-dialer:before {
+  content: "\ue0cf";
+}
+
+.mdi-quick-contacts-mail:before {
+  content: "\ue0d0";
+}
+
+.mdi-quickreply:before {
+  content: "\uef6c";
+}
+
+.mdi-quiz:before {
+  content: "\uf04c";
+}
+
+.mdi-r-mobiledata:before {
+  content: "\uf04d";
+}
+
+.mdi-radar:before {
+  content: "\uf04e";
+}
+
 .mdi-radio:before {
   content: "\ue03e";
 }
@@ -2678,24 +5362,68 @@
   content: "\ue837";
 }
 
+.mdi-radio-button-off:before {
+  content: "\ue836";
+}
+
+.mdi-radio-button-on:before {
+  content: "\ue837";
+}
+
 .mdi-radio-button-unchecked:before {
   content: "\ue836";
+}
+
+.mdi-railway-alert:before {
+  content: "\ue9d1";
+}
+
+.mdi-ramen-dining:before {
+  content: "\uea64";
 }
 
 .mdi-rate-review:before {
   content: "\ue560";
 }
 
+.mdi-raw-off:before {
+  content: "\uf04f";
+}
+
+.mdi-raw-on:before {
+  content: "\uf050";
+}
+
+.mdi-read-more:before {
+  content: "\uef6d";
+}
+
+.mdi-real-estate-agent:before {
+  content: "\ue73a";
+}
+
 .mdi-receipt:before {
   content: "\ue8b0";
+}
+
+.mdi-receipt-long:before {
+  content: "\uef6e";
 }
 
 .mdi-recent-actors:before {
   content: "\ue03f";
 }
 
+.mdi-recommend:before {
+  content: "\ue9d2";
+}
+
 .mdi-record-voice-over:before {
   content: "\ue91f";
+}
+
+.mdi-recycling:before {
+  content: "\ue760";
 }
 
 .mdi-redeem:before {
@@ -2706,8 +5434,16 @@
   content: "\ue15a";
 }
 
+.mdi-reduce-capacity:before {
+  content: "\uf21c";
+}
+
 .mdi-refresh:before {
   content: "\ue5d5";
+}
+
+.mdi-remember-me:before {
+  content: "\uf051";
 }
 
 .mdi-remove:before {
@@ -2722,8 +5458,16 @@
   content: "\ue15d";
 }
 
+.mdi-remove-done:before {
+  content: "\ue9d3";
+}
+
 .mdi-remove-from-queue:before {
   content: "\ue067";
+}
+
+.mdi-remove-moderator:before {
+  content: "\ue9d4";
 }
 
 .mdi-remove-red-eye:before {
@@ -2742,8 +5486,16 @@
   content: "\ue040";
 }
 
+.mdi-repeat-on:before {
+  content: "\ue9d6";
+}
+
 .mdi-repeat-one:before {
   content: "\ue041";
+}
+
+.mdi-repeat-one-on:before {
+  content: "\ue9d7";
 }
 
 .mdi-replay:before {
@@ -2762,6 +5514,10 @@
   content: "\ue05b";
 }
 
+.mdi-replay-circle-filled:before {
+  content: "\ue9d8";
+}
+
 .mdi-reply:before {
   content: "\ue15e";
 }
@@ -2774,8 +5530,32 @@
   content: "\ue160";
 }
 
+.mdi-report-gmailerrorred:before {
+  content: "\uf052";
+}
+
+.mdi-report-off:before {
+  content: "\ue170";
+}
+
 .mdi-report-problem:before {
   content: "\ue8b2";
+}
+
+.mdi-request-page:before {
+  content: "\uf22c";
+}
+
+.mdi-request-quote:before {
+  content: "\uf1b6";
+}
+
+.mdi-reset-tv:before {
+  content: "\ue9d9";
+}
+
+.mdi-restart-alt:before {
+  content: "\uf053";
 }
 
 .mdi-restaurant:before {
@@ -2790,16 +5570,36 @@
   content: "\ue8b3";
 }
 
+.mdi-restore-from-trash:before {
+  content: "\ue938";
+}
+
 .mdi-restore-page:before {
   content: "\ue929";
+}
+
+.mdi-reviews:before {
+  content: "\uf054";
+}
+
+.mdi-rice-bowl:before {
+  content: "\uf1f5";
 }
 
 .mdi-ring-volume:before {
   content: "\ue0d1";
 }
 
+.mdi-roofing:before {
+  content: "\uf201";
+}
+
 .mdi-room:before {
   content: "\ue8b4";
+}
+
+.mdi-room-preferences:before {
+  content: "\uf1b8";
 }
 
 .mdi-room-service:before {
@@ -2834,8 +5634,44 @@
   content: "\ue0e5";
 }
 
+.mdi-rsvp:before {
+  content: "\uf055";
+}
+
+.mdi-rtt:before {
+  content: "\ue9ad";
+}
+
+.mdi-rule:before {
+  content: "\uf1c2";
+}
+
+.mdi-rule-folder:before {
+  content: "\uf1c9";
+}
+
+.mdi-run-circle:before {
+  content: "\uef6f";
+}
+
+.mdi-running-with-errors:before {
+  content: "\ue51d";
+}
+
 .mdi-rv-hookup:before {
   content: "\ue642";
+}
+
+.mdi-safety-divider:before {
+  content: "\ue1cc";
+}
+
+.mdi-sailing:before {
+  content: "\ue502";
+}
+
+.mdi-sanitizer:before {
+  content: "\uf21d";
 }
 
 .mdi-satellite:before {
@@ -2846,16 +5682,48 @@
   content: "\ue161";
 }
 
+.mdi-save-alt:before {
+  content: "\ue171";
+}
+
+.mdi-saved-search:before {
+  content: "\uea11";
+}
+
+.mdi-savings:before {
+  content: "\ue2eb";
+}
+
 .mdi-scanner:before {
   content: "\ue329";
+}
+
+.mdi-scatter-plot:before {
+  content: "\ue268";
 }
 
 .mdi-schedule:before {
   content: "\ue8b5";
 }
 
+.mdi-schedule-send:before {
+  content: "\uea0a";
+}
+
+.mdi-schema:before {
+  content: "\ue4fd";
+}
+
 .mdi-school:before {
   content: "\ue80c";
+}
+
+.mdi-science:before {
+  content: "\uea4b";
+}
+
+.mdi-score:before {
+  content: "\ue269";
 }
 
 .mdi-screen-lock-landscape:before {
@@ -2874,12 +5742,28 @@
   content: "\ue1c1";
 }
 
+.mdi-screen-search-desktop:before {
+  content: "\uef70";
+}
+
 .mdi-screen-share:before {
   content: "\ue0e2";
 }
 
+.mdi-screenshot:before {
+  content: "\uf056";
+}
+
+.mdi-sd:before {
+  content: "\ue9dd";
+}
+
 .mdi-sd-card:before {
   content: "\ue623";
+}
+
+.mdi-sd-card-alert:before {
+  content: "\uf057";
 }
 
 .mdi-sd-storage:before {
@@ -2890,16 +5774,68 @@
   content: "\ue8b6";
 }
 
+.mdi-search-off:before {
+  content: "\uea76";
+}
+
 .mdi-security:before {
   content: "\ue32a";
+}
+
+.mdi-security-update:before {
+  content: "\uf058";
+}
+
+.mdi-security-update-good:before {
+  content: "\uf059";
+}
+
+.mdi-security-update-warning:before {
+  content: "\uf05a";
+}
+
+.mdi-segment:before {
+  content: "\ue94b";
 }
 
 .mdi-select-all:before {
   content: "\ue162";
 }
 
+.mdi-self-improvement:before {
+  content: "\uea78";
+}
+
+.mdi-sell:before {
+  content: "\uf05b";
+}
+
 .mdi-send:before {
   content: "\ue163";
+}
+
+.mdi-send-and-archive:before {
+  content: "\uea0c";
+}
+
+.mdi-send-to-mobile:before {
+  content: "\uf05c";
+}
+
+.mdi-sensor-door:before {
+  content: "\uf1b5";
+}
+
+.mdi-sensor-window:before {
+  content: "\uf1b4";
+}
+
+.mdi-sensors:before {
+  content: "\ue51e";
+}
+
+.mdi-sensors-off:before {
+  content: "\ue51f";
 }
 
 .mdi-sentiment-dissatisfied:before {
@@ -2914,6 +5850,10 @@
   content: "\ue813";
 }
 
+.mdi-sentiment-satisfied-alt:before {
+  content: "\ue0ed";
+}
+
 .mdi-sentiment-very-dissatisfied:before {
   content: "\ue814";
 }
@@ -2922,8 +5862,16 @@
   content: "\ue815";
 }
 
+.mdi-set-meal:before {
+  content: "\uf1ea";
+}
+
 .mdi-settings:before {
   content: "\ue8b8";
+}
+
+.mdi-settings-accessibility:before {
+  content: "\uf05d";
 }
 
 .mdi-settings-applications:before {
@@ -2944,6 +5892,10 @@
 
 .mdi-settings-cell:before {
   content: "\ue8bc";
+}
+
+.mdi-settings-display:before {
+  content: "\ue8bd";
 }
 
 .mdi-settings-ethernet:before {
@@ -2986,6 +5938,10 @@
   content: "\ue8c7";
 }
 
+.mdi-settings-suggest:before {
+  content: "\uf05e";
+}
+
 .mdi-settings-system-daydream:before {
   content: "\ue1c3";
 }
@@ -2998,12 +5954,32 @@
   content: "\ue80d";
 }
 
+.mdi-share-arrival-time:before {
+  content: "\ue524";
+}
+
+.mdi-share-location:before {
+  content: "\uf05f";
+}
+
+.mdi-shield:before {
+  content: "\ue9e0";
+}
+
 .mdi-shop:before {
   content: "\ue8c9";
 }
 
+.mdi-shop-2:before {
+  content: "\ue19e";
+}
+
 .mdi-shop-two:before {
   content: "\ue8ca";
+}
+
+.mdi-shopping-bag:before {
+  content: "\uf1cc";
 }
 
 .mdi-shopping-basket:before {
@@ -3018,16 +5994,48 @@
   content: "\ue261";
 }
 
+.mdi-shortcut:before {
+  content: "\uf060";
+}
+
 .mdi-show-chart:before {
   content: "\ue6e1";
+}
+
+.mdi-shower:before {
+  content: "\uf061";
 }
 
 .mdi-shuffle:before {
   content: "\ue043";
 }
 
+.mdi-shuffle-on:before {
+  content: "\ue9e1";
+}
+
+.mdi-shutter-speed:before {
+  content: "\ue43d";
+}
+
+.mdi-sick:before {
+  content: "\uf220";
+}
+
+.mdi-signal-cellular-0-bar:before {
+  content: "\uf0a8";
+}
+
 .mdi-signal-cellular-4-bar:before {
   content: "\ue1c8";
+}
+
+.mdi-signal-cellular-alt:before {
+  content: "\ue202";
+}
+
+.mdi-signal-cellular-connected-no-internet-0-bar:before {
+  content: "\uf0ac";
 }
 
 .mdi-signal-cellular-connected-no-internet-4-bar:before {
@@ -3038,12 +6046,20 @@
   content: "\ue1ce";
 }
 
+.mdi-signal-cellular-nodata:before {
+  content: "\uf062";
+}
+
 .mdi-signal-cellular-null:before {
   content: "\ue1cf";
 }
 
 .mdi-signal-cellular-off:before {
   content: "\ue1d0";
+}
+
+.mdi-signal-wifi-0-bar:before {
+  content: "\uf0b0";
 }
 
 .mdi-signal-wifi-4-bar:before {
@@ -3054,8 +6070,28 @@
   content: "\ue1d9";
 }
 
+.mdi-signal-wifi-bad:before {
+  content: "\uf063";
+}
+
+.mdi-signal-wifi-connected-no-internet-4:before {
+  content: "\uf064";
+}
+
 .mdi-signal-wifi-off:before {
   content: "\ue1da";
+}
+
+.mdi-signal-wifi-statusbar-4-bar:before {
+  content: "\uf065";
+}
+
+.mdi-signal-wifi-statusbar-connected-no-internet-4:before {
+  content: "\uf066";
+}
+
+.mdi-signal-wifi-statusbar-null:before {
+  content: "\uf067";
 }
 
 .mdi-sim-card:before {
@@ -3066,6 +6102,22 @@
   content: "\ue624";
 }
 
+.mdi-sim-card-download:before {
+  content: "\uf068";
+}
+
+.mdi-single-bed:before {
+  content: "\uea48";
+}
+
+.mdi-sip:before {
+  content: "\uf069";
+}
+
+.mdi-skateboarding:before {
+  content: "\ue511";
+}
+
 .mdi-skip-next:before {
   content: "\ue044";
 }
@@ -3074,12 +6126,32 @@
   content: "\ue045";
 }
 
+.mdi-sledding:before {
+  content: "\ue512";
+}
+
 .mdi-slideshow:before {
   content: "\ue41b";
 }
 
 .mdi-slow-motion-video:before {
   content: "\ue068";
+}
+
+.mdi-smart-button:before {
+  content: "\uf1c1";
+}
+
+.mdi-smart-display:before {
+  content: "\uf06a";
+}
+
+.mdi-smart-screen:before {
+  content: "\uf06b";
+}
+
+.mdi-smart-toy:before {
+  content: "\uf06c";
 }
 
 .mdi-smartphone:before {
@@ -3102,8 +6174,32 @@
   content: "\ue626";
 }
 
+.mdi-snippet-folder:before {
+  content: "\uf1c7";
+}
+
 .mdi-snooze:before {
   content: "\ue046";
+}
+
+.mdi-snowboarding:before {
+  content: "\ue513";
+}
+
+.mdi-snowmobile:before {
+  content: "\ue503";
+}
+
+.mdi-snowshoeing:before {
+  content: "\ue514";
+}
+
+.mdi-soap:before {
+  content: "\uf1b2";
+}
+
+.mdi-social-distance:before {
+  content: "\ue1cb";
 }
 
 .mdi-sort:before {
@@ -3114,12 +6210,32 @@
   content: "\ue053";
 }
 
+.mdi-source:before {
+  content: "\uf1c4";
+}
+
+.mdi-south:before {
+  content: "\uf1e3";
+}
+
+.mdi-south-east:before {
+  content: "\uf1e4";
+}
+
+.mdi-south-west:before {
+  content: "\uf1e5";
+}
+
 .mdi-spa:before {
   content: "\ueb4c";
 }
 
 .mdi-space-bar:before {
   content: "\ue256";
+}
+
+.mdi-space-dashboard:before {
+  content: "\ue66b";
 }
 
 .mdi-speaker:before {
@@ -3142,8 +6258,104 @@
   content: "\ue0d2";
 }
 
+.mdi-speed:before {
+  content: "\ue9e4";
+}
+
 .mdi-spellcheck:before {
   content: "\ue8ce";
+}
+
+.mdi-splitscreen:before {
+  content: "\uf06d";
+}
+
+.mdi-sports:before {
+  content: "\uea30";
+}
+
+.mdi-sports-bar:before {
+  content: "\uf1f3";
+}
+
+.mdi-sports-baseball:before {
+  content: "\uea51";
+}
+
+.mdi-sports-basketball:before {
+  content: "\uea26";
+}
+
+.mdi-sports-cricket:before {
+  content: "\uea27";
+}
+
+.mdi-sports-esports:before {
+  content: "\uea28";
+}
+
+.mdi-sports-football:before {
+  content: "\uea29";
+}
+
+.mdi-sports-golf:before {
+  content: "\uea2a";
+}
+
+.mdi-sports-handball:before {
+  content: "\uea33";
+}
+
+.mdi-sports-hockey:before {
+  content: "\uea2b";
+}
+
+.mdi-sports-kabaddi:before {
+  content: "\uea34";
+}
+
+.mdi-sports-mma:before {
+  content: "\uea2c";
+}
+
+.mdi-sports-motorsports:before {
+  content: "\uea2d";
+}
+
+.mdi-sports-rugby:before {
+  content: "\uea2e";
+}
+
+.mdi-sports-score:before {
+  content: "\uf06e";
+}
+
+.mdi-sports-soccer:before {
+  content: "\uea2f";
+}
+
+.mdi-sports-tennis:before {
+  content: "\uea32";
+}
+
+.mdi-sports-volleyball:before {
+  content: "\uea31";
+}
+
+.mdi-square-foot:before {
+  content: "\uea49";
+}
+
+.mdi-stacked-bar-chart:before {
+  content: "\ue9e6";
+}
+
+.mdi-stacked-line-chart:before {
+  content: "\uf22b";
+}
+
+.mdi-stairs:before {
+  content: "\uf1a9";
 }
 
 .mdi-star:before {
@@ -3154,8 +6366,24 @@
   content: "\ue83a";
 }
 
+.mdi-star-border-purple500:before {
+  content: "\uf099";
+}
+
 .mdi-star-half:before {
   content: "\ue839";
+}
+
+.mdi-star-outline:before {
+  content: "\uf06f";
+}
+
+.mdi-star-purple500:before {
+  content: "\uf09a";
+}
+
+.mdi-star-rate:before {
+  content: "\uf0ec";
 }
 
 .mdi-stars:before {
@@ -3178,8 +6406,16 @@
   content: "\ue0d6";
 }
 
+.mdi-sticky-note-2:before {
+  content: "\uf1fc";
+}
+
 .mdi-stop:before {
   content: "\ue047";
+}
+
+.mdi-stop-circle:before {
+  content: "\uef71";
 }
 
 .mdi-stop-screen-share:before {
@@ -3198,8 +6434,20 @@
   content: "\ue563";
 }
 
+.mdi-storefront:before {
+  content: "\uea12";
+}
+
+.mdi-storm:before {
+  content: "\uf070";
+}
+
 .mdi-straighten:before {
   content: "\ue41c";
+}
+
+.mdi-stream:before {
+  content: "\ue9e9";
 }
 
 .mdi-streetview:before {
@@ -3208,6 +6456,10 @@
 
 .mdi-strikethrough-s:before {
   content: "\ue257";
+}
+
+.mdi-stroller:before {
+  content: "\uf1ae";
 }
 
 .mdi-style:before {
@@ -3226,6 +6478,10 @@
   content: "\ue8d2";
 }
 
+.mdi-subscript:before {
+  content: "\uf111";
+}
+
 .mdi-subscriptions:before {
   content: "\ue064";
 }
@@ -3234,12 +6490,40 @@
   content: "\ue048";
 }
 
+.mdi-subtitles-off:before {
+  content: "\uef72";
+}
+
 .mdi-subway:before {
   content: "\ue56f";
 }
 
+.mdi-summarize:before {
+  content: "\uf071";
+}
+
+.mdi-superscript:before {
+  content: "\uf112";
+}
+
+.mdi-supervised-user-circle:before {
+  content: "\ue939";
+}
+
 .mdi-supervisor-account:before {
   content: "\ue8d3";
+}
+
+.mdi-support:before {
+  content: "\uef73";
+}
+
+.mdi-support-agent:before {
+  content: "\uf0e2";
+}
+
+.mdi-surfing:before {
+  content: "\ue515";
 }
 
 .mdi-surround-sound:before {
@@ -3254,16 +6538,40 @@
   content: "\ue8d4";
 }
 
+.mdi-swap-horizontal-circle:before {
+  content: "\ue933";
+}
+
 .mdi-swap-vert:before {
   content: "\ue8d5";
+}
+
+.mdi-swap-vert-circle:before {
+  content: "\ue8d6";
 }
 
 .mdi-swap-vertical-circle:before {
   content: "\ue8d6";
 }
 
+.mdi-swipe:before {
+  content: "\ue9ec";
+}
+
+.mdi-switch-account:before {
+  content: "\ue9ed";
+}
+
 .mdi-switch-camera:before {
   content: "\ue41e";
+}
+
+.mdi-switch-left:before {
+  content: "\uf1d1";
+}
+
+.mdi-switch-right:before {
+  content: "\uf1d2";
 }
 
 .mdi-switch-video:before {
@@ -3274,12 +6582,28 @@
   content: "\ue627";
 }
 
+.mdi-sync-alt:before {
+  content: "\uea18";
+}
+
 .mdi-sync-disabled:before {
   content: "\ue628";
 }
 
 .mdi-sync-problem:before {
   content: "\ue629";
+}
+
+.mdi-system-security-update:before {
+  content: "\uf072";
+}
+
+.mdi-system-security-update-good:before {
+  content: "\uf073";
+}
+
+.mdi-system-security-update-warning:before {
+  content: "\uf074";
 }
 
 .mdi-system-update:before {
@@ -3290,12 +6614,28 @@
   content: "\ue8d7";
 }
 
+.mdi-system-update-tv:before {
+  content: "\ue8d7";
+}
+
 .mdi-tab:before {
   content: "\ue8d8";
 }
 
 .mdi-tab-unselected:before {
   content: "\ue8d9";
+}
+
+.mdi-table-chart:before {
+  content: "\ue265";
+}
+
+.mdi-table-rows:before {
+  content: "\uf101";
+}
+
+.mdi-table-view:before {
+  content: "\uf1be";
 }
 
 .mdi-tablet:before {
@@ -3310,12 +6650,36 @@
   content: "\ue331";
 }
 
+.mdi-tag:before {
+  content: "\ue9ef";
+}
+
 .mdi-tag-faces:before {
   content: "\ue420";
 }
 
+.mdi-takeout-dining:before {
+  content: "\uea74";
+}
+
 .mdi-tap-and-play:before {
   content: "\ue62b";
+}
+
+.mdi-tapas:before {
+  content: "\uf1e9";
+}
+
+.mdi-task:before {
+  content: "\uf075";
+}
+
+.mdi-task-alt:before {
+  content: "\ue2e6";
+}
+
+.mdi-taxi-alert:before {
+  content: "\uef74";
 }
 
 .mdi-terrain:before {
@@ -3330,6 +6694,34 @@
   content: "\ue165";
 }
 
+.mdi-text-rotate-up:before {
+  content: "\ue93a";
+}
+
+.mdi-text-rotate-vertical:before {
+  content: "\ue93b";
+}
+
+.mdi-text-rotation-angledown:before {
+  content: "\ue93c";
+}
+
+.mdi-text-rotation-angleup:before {
+  content: "\ue93d";
+}
+
+.mdi-text-rotation-down:before {
+  content: "\ue93e";
+}
+
+.mdi-text-rotation-none:before {
+  content: "\ue93f";
+}
+
+.mdi-text-snippet:before {
+  content: "\uf1c6";
+}
+
 .mdi-textsms:before {
   content: "\ue0d8";
 }
@@ -3338,16 +6730,44 @@
   content: "\ue421";
 }
 
+.mdi-theater-comedy:before {
+  content: "\uea66";
+}
+
 .mdi-theaters:before {
   content: "\ue8da";
+}
+
+.mdi-thermostat:before {
+  content: "\uf076";
+}
+
+.mdi-thermostat-auto:before {
+  content: "\uf077";
 }
 
 .mdi-thumb-down:before {
   content: "\ue8db";
 }
 
+.mdi-thumb-down-alt:before {
+  content: "\ue816";
+}
+
+.mdi-thumb-down-off-alt:before {
+  content: "\ue9f2";
+}
+
 .mdi-thumb-up:before {
   content: "\ue8dc";
+}
+
+.mdi-thumb-up-alt:before {
+  content: "\ue817";
+}
+
+.mdi-thumb-up-off-alt:before {
+  content: "\ue9f3";
 }
 
 .mdi-thumbs-up-down:before {
@@ -3374,12 +6794,24 @@
   content: "\ue423";
 }
 
+.mdi-timer-10-select:before {
+  content: "\uf07a";
+}
+
 .mdi-timer-3:before {
   content: "\ue424";
 }
 
+.mdi-timer-3-select:before {
+  content: "\uf07b";
+}
+
 .mdi-timer-off:before {
   content: "\ue426";
+}
+
+.mdi-tips-and-updates:before {
+  content: "\ue79a";
 }
 
 .mdi-title:before {
@@ -3394,6 +6826,14 @@
   content: "\ue8df";
 }
 
+.mdi-toggle-off:before {
+  content: "\ue9f5";
+}
+
+.mdi-toggle-on:before {
+  content: "\ue9f6";
+}
+
 .mdi-toll:before {
   content: "\ue8e0";
 }
@@ -3402,8 +6842,16 @@
   content: "\ue427";
 }
 
+.mdi-topic:before {
+  content: "\uf1c8";
+}
+
 .mdi-touch-app:before {
   content: "\ue913";
+}
+
+.mdi-tour:before {
+  content: "\uef75";
 }
 
 .mdi-toys:before {
@@ -3434,8 +6882,20 @@
   content: "\ue428";
 }
 
+.mdi-transgender:before {
+  content: "\ue58d";
+}
+
+.mdi-transit-enterexit:before {
+  content: "\ue579";
+}
+
 .mdi-translate:before {
   content: "\ue8e2";
+}
+
+.mdi-travel-explore:before {
+  content: "\ue2db";
 }
 
 .mdi-trending-down:before {
@@ -3446,12 +6906,32 @@
   content: "\ue8e4";
 }
 
+.mdi-trending-neutral:before {
+  content: "\ue8e4";
+}
+
 .mdi-trending-up:before {
   content: "\ue8e5";
 }
 
+.mdi-trip-origin:before {
+  content: "\ue57b";
+}
+
+.mdi-try:before {
+  content: "\uf07c";
+}
+
+.mdi-tty:before {
+  content: "\uf1aa";
+}
+
 .mdi-tune:before {
   content: "\ue429";
+}
+
+.mdi-tungsten:before {
+  content: "\uf07d";
 }
 
 .mdi-turned-in:before {
@@ -3464,6 +6944,18 @@
 
 .mdi-tv:before {
   content: "\ue333";
+}
+
+.mdi-tv-off:before {
+  content: "\ue647";
+}
+
+.mdi-two-wheeler:before {
+  content: "\ue9f9";
+}
+
+.mdi-umbrella:before {
+  content: "\uf1ad";
 }
 
 .mdi-unarchive:before {
@@ -3482,12 +6974,48 @@
   content: "\ue5d7";
 }
 
+.mdi-unpublished:before {
+  content: "\uf236";
+}
+
+.mdi-unsubscribe:before {
+  content: "\ue0eb";
+}
+
+.mdi-upcoming:before {
+  content: "\uf07e";
+}
+
 .mdi-update:before {
   content: "\ue923";
 }
 
+.mdi-update-disabled:before {
+  content: "\ue075";
+}
+
+.mdi-upgrade:before {
+  content: "\uf0fb";
+}
+
+.mdi-upload:before {
+  content: "\uf09b";
+}
+
+.mdi-upload-file:before {
+  content: "\ue9fc";
+}
+
 .mdi-usb:before {
   content: "\ue1e0";
+}
+
+.mdi-usb-off:before {
+  content: "\ue4fa";
+}
+
+.mdi-verified:before {
+  content: "\uef76";
 }
 
 .mdi-verified-user:before {
@@ -3506,6 +7034,14 @@
   content: "\ue25a";
 }
 
+.mdi-vertical-distribute:before {
+  content: "\ue076";
+}
+
+.mdi-vertical-split:before {
+  content: "\ue949";
+}
+
 .mdi-vibration:before {
   content: "\ue62d";
 }
@@ -3514,12 +7050,32 @@
   content: "\ue070";
 }
 
+.mdi-video-camera-back:before {
+  content: "\uf07f";
+}
+
+.mdi-video-camera-front:before {
+  content: "\uf080";
+}
+
+.mdi-video-collection:before {
+  content: "\ue04a";
+}
+
 .mdi-video-label:before {
   content: "\ue071";
 }
 
 .mdi-video-library:before {
   content: "\ue04a";
+}
+
+.mdi-video-settings:before {
+  content: "\uea75";
+}
+
+.mdi-video-stable:before {
+  content: "\uf081";
 }
 
 .mdi-videocam:before {
@@ -3532,6 +7088,10 @@
 
 .mdi-videogame-asset:before {
   content: "\ue338";
+}
+
+.mdi-videogame-asset-off:before {
+  content: "\ue500";
 }
 
 .mdi-view-agenda:before {
@@ -3550,6 +7110,10 @@
   content: "\ue8ec";
 }
 
+.mdi-view-comfortable:before {
+  content: "\ue42a";
+}
+
 .mdi-view-comfy:before {
   content: "\ue42a";
 }
@@ -3566,6 +7130,10 @@
   content: "\ue8ee";
 }
 
+.mdi-view-in-ar:before {
+  content: "\ue9fe";
+}
+
 .mdi-view-list:before {
   content: "\ue8ef";
 }
@@ -3576,6 +7144,10 @@
 
 .mdi-view-quilt:before {
   content: "\ue8f1";
+}
+
+.mdi-view-sidebar:before {
+  content: "\uf114";
 }
 
 .mdi-view-stream:before {
@@ -3590,6 +7162,10 @@
   content: "\ue435";
 }
 
+.mdi-villa:before {
+  content: "\ue586";
+}
+
 .mdi-visibility:before {
   content: "\ue8f4";
 }
@@ -3602,12 +7178,20 @@
   content: "\ue62e";
 }
 
+.mdi-voice-over-off:before {
+  content: "\ue94a";
+}
+
 .mdi-voicemail:before {
   content: "\ue0d9";
 }
 
 .mdi-volume-down:before {
   content: "\ue04d";
+}
+
+.mdi-volume-down-alt:before {
+  content: "\ue79c";
 }
 
 .mdi-volume-mute:before {
@@ -3622,12 +7206,32 @@
   content: "\ue050";
 }
 
+.mdi-volunteer-activism:before {
+  content: "\uea70";
+}
+
 .mdi-vpn-key:before {
   content: "\ue0da";
 }
 
 .mdi-vpn-lock:before {
   content: "\ue62f";
+}
+
+.mdi-vrpano:before {
+  content: "\uf082";
+}
+
+.mdi-wallet-giftcard:before {
+  content: "\ue8f6";
+}
+
+.mdi-wallet-membership:before {
+  content: "\ue8f7";
+}
+
+.mdi-wallet-travel:before {
+  content: "\ue8f8";
 }
 
 .mdi-wallpaper:before {
@@ -3638,12 +7242,44 @@
   content: "\ue002";
 }
 
+.mdi-warning-amber:before {
+  content: "\uf083";
+}
+
+.mdi-wash:before {
+  content: "\uf1b1";
+}
+
 .mdi-watch:before {
   content: "\ue334";
 }
 
 .mdi-watch-later:before {
   content: "\ue924";
+}
+
+.mdi-water:before {
+  content: "\uf084";
+}
+
+.mdi-water-damage:before {
+  content: "\uf203";
+}
+
+.mdi-water-drop:before {
+  content: "\ue798";
+}
+
+.mdi-waterfall-chart:before {
+  content: "\uea00";
+}
+
+.mdi-waves:before {
+  content: "\ue176";
+}
+
+.mdi-waving-hand:before {
+  content: "\ue766";
 }
 
 .mdi-wb-auto:before {
@@ -3662,8 +7298,20 @@
   content: "\ue436";
 }
 
+.mdi-wb-shade:before {
+  content: "\uea01";
+}
+
 .mdi-wb-sunny:before {
   content: "\ue430";
+}
+
+.mdi-wb-twighlight:before {
+  content: "\uea02";
+}
+
+.mdi-wb-twilight:before {
+  content: "\ue1c6";
 }
 
 .mdi-wc:before {
@@ -3678,12 +7326,32 @@
   content: "\ue069";
 }
 
+.mdi-web-asset-off:before {
+  content: "\ue4f7";
+}
+
+.mdi-web-stories:before {
+  content: "\ue595";
+}
+
 .mdi-weekend:before {
   content: "\ue16b";
 }
 
+.mdi-west:before {
+  content: "\uf1e6";
+}
+
 .mdi-whatshot:before {
   content: "\ue80e";
+}
+
+.mdi-wheelchair-pickup:before {
+  content: "\uf1ab";
+}
+
+.mdi-where-to-vote:before {
+  content: "\ue177";
 }
 
 .mdi-widgets:before {
@@ -3694,20 +7362,84 @@
   content: "\ue63e";
 }
 
+.mdi-wifi-calling:before {
+  content: "\uef77";
+}
+
+.mdi-wifi-calling-3:before {
+  content: "\uf085";
+}
+
 .mdi-wifi-lock:before {
   content: "\ue1e1";
+}
+
+.mdi-wifi-off:before {
+  content: "\ue648";
+}
+
+.mdi-wifi-protected-setup:before {
+  content: "\uf0fc";
 }
 
 .mdi-wifi-tethering:before {
   content: "\ue1e2";
 }
 
+.mdi-wifi-tethering-error-rounded:before {
+  content: "\uf086";
+}
+
+.mdi-wifi-tethering-off:before {
+  content: "\uf087";
+}
+
+.mdi-window:before {
+  content: "\uf088";
+}
+
+.mdi-wine-bar:before {
+  content: "\uf1e8";
+}
+
 .mdi-work:before {
   content: "\ue8f9";
 }
 
+.mdi-work-off:before {
+  content: "\ue942";
+}
+
+.mdi-work-outline:before {
+  content: "\ue943";
+}
+
+.mdi-workspaces:before {
+  content: "\ue1a0";
+}
+
+.mdi-workspaces-filled:before {
+  content: "\uea0d";
+}
+
+.mdi-workspaces-outline:before {
+  content: "\uea0f";
+}
+
 .mdi-wrap-text:before {
   content: "\ue25b";
+}
+
+.mdi-wrong-location:before {
+  content: "\uef78";
+}
+
+.mdi-wysiwyg:before {
+  content: "\uf1c3";
+}
+
+.mdi-yard:before {
+  content: "\uf089";
 }
 
 .mdi-youtube-searched-for:before {
@@ -3725,4 +7457,3 @@
 .mdi-zoom-out-map:before {
   content: "\ue56b";
 }
-

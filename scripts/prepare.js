@@ -1,7 +1,7 @@
 /**
  * For Dev Only.
- * Copies fontFile to the package from material-desigin-icons package and 
- * prepares css classes for all the icons based on codePoints provided by 
+ * Copies fontFile to the package from material-desigin-icons package and
+ * prepares css classes for all the icons based on codePoints provided by
  * material-design-icons package.
  */
 var fs = require('fs');
@@ -28,10 +28,12 @@ function generateCSSClasses() {
     var arrData = line.split(' ');
     var className = arrData[0].replace(/_/g, '-');
     var unicode = '\\u' + arrData[1];
+
     writeStream.write(
       '.' + config.classPrefix + '-' + className + ':before ' + '{\n  ' +
       'content: "' + unicode + '";\n' +
-      '}\n\n');
+      '}\n\n'
+    );
   });
 
   lineReader.on('close', function () {

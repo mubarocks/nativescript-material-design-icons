@@ -1,11 +1,11 @@
 {
-  "name": "nativescript-material-icons",
-  "version": "1.0.3",
-  "description": "A package containing ready to use material design icon font and css classes for nativescript projects. ",
+  "name": "nativescript-material-design-icons",
+  "version": "1.0.0",
+  "description": "A package containing ready to use material design icon font and css classes for NativeScript projects.",
   "nativescript": {
     "platforms": {
-      "android": "2.3.0",
-      "ios": "2.3.0"
+      "android": "6.0.0",
+      "ios": "6.0.0",
     }
   },
   "scripts": {
@@ -14,17 +14,24 @@
     "postuninstall": "node scripts/postuninstall.js"
   },
   "author": "Shripal Soni",
+  "contributors": [
+    {
+      "name": "Mubarak Bijinemula",
+      "email": "mubarocks@gmail.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shripalsoni04/nativescript-material-icons"
+    "url": "https://github.com/mubarocks/nativescript-material-design-icons"
   },
   "bugs": {
-    "url": "https://github.com/shripalsoni04/nativescript-material-icons/issues"
+    "url": "https://github.com/mubarocks/nativescript-material-design-icons/issues"
   },
-  "keyeords": [
+  "keywords": [
     "nativescript",
     "material design icons",
-    "nativescript material design icons"
+    "nativescript material design icons",
+    "nativescript angular application"
   ],
   "devDependencies": {
     "material-design-icons": "^3.0.1"

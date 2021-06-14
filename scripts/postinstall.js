@@ -9,6 +9,7 @@ function copyFontFile() {
   if(!fs.existsSync(config.fontFileDestDir)){
     fs.mkdirSync(config.fontFileDestDir);
   }
+
   fs.writeFileSync(config.fontFileDestPath, fs.readFileSync(config.fontFileSrcPath));
 }
 
