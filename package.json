@@ -5,7 +5,7 @@
   "nativescript": {
     "platforms": {
       "android": "6.0.0",
-      "ios": "6.0.0",
+      "ios": "6.0.0"
     }
   },
   "scripts": {
@@ -15,14 +15,11 @@
   },
   "author": "Shripal Soni",
   "contributors": [
-    {
-      "name": "Mubarak Bijinemula",
-      "email": "mubarocks@gmail.com"
-    }
+    "Mubarak Bijinemula <mubarocks@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mubarocks/nativescript-material-design-icons"
+    "url": "git+https://github.com/mubarocks/nativescript-material-design-icons.git"
   },
   "bugs": {
     "url": "https://github.com/mubarocks/nativescript-material-design-icons/issues"
@@ -36,5 +33,10 @@
   "devDependencies": {
     "material-design-icons": "^3.0.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "npmrc": "^1.1.1"
+  },
+  "homepage": "https://github.com/mubarocks/nativescript-material-design-icons#readme",
+  "main": "index.js"
 }
